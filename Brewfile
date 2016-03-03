@@ -1,16 +1,33 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
-cask bitcoin-core
+brew brew-cask
+cask alfred
+cask appcleaner
+cask disk-sensei
+cask dropbox
+cask firefox
+cask google-chrome
+cask google-drive
+cask google-japanese-ime
+cask intellij-idea
+cask istat-menus
 cask kindle
+cask sizeup
+cask skype
+cask slack
 cask sourcetree
+cask the-unarchiver
+cask tunnelbear
+cask virtualbox
 
-## caskroom/versions
 tap caskroom/versions
+cask google-chrome-canary
+cask sublime-text3
 
-## rcmdnk/file
+tap homebrew/bundle
+
 tap rcmdnk/file
 brew brew-file
 

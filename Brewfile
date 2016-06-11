@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-brew brew-cask
 cask alfred
 cask appcleaner
 cask disk-sensei
@@ -28,6 +27,7 @@ cask virtualbox
 cask vlc
 
 tap caskroom/versions
+cask 1password-beta
 cask google-chrome-canary
 cask sublime-text3
 
@@ -59,7 +59,6 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 443987910 1Password
 appstore 455068834 Adobe Revel
 appstore 606957946 BitcoinMonitor
 appstore 425264550 Blackmagic Disk Speed Test
@@ -67,7 +66,7 @@ appstore 549083868 Display Menu
 appstore 409183694 Keynote
 appstore 977057670 Memo
 appstore 409203825 Numbers
-appstore nil OmniGraffle
+appstore 711830901 OmniGraffle
 appstore 409201541 Pages
 appstore 948415170 Pushbullet
 appstore 409789998 Twitter

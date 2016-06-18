@@ -7,6 +7,7 @@ brew mas
 tap caskroom/cask
 cask alfred
 cask appcleaner
+cask avast
 cask disk-sensei
 cask dropbox
 cask firefox
@@ -19,6 +20,7 @@ cask kindle
 cask sizeup
 cask skype
 cask slack
+cask soundflower
 cask soundfly
 cask sourcetree
 cask the-unarchiver

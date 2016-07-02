@@ -23,6 +23,7 @@ cask slack
 cask soundflower
 cask soundfly
 cask sourcetree
+cask sublime-text
 cask the-unarchiver
 cask tunnelbear
 cask virtualbox
@@ -31,7 +32,6 @@ cask vlc
 tap caskroom/versions
 cask 1password-beta
 cask google-chrome-canary
-cask sublime-text3
 
 tap homebrew/bundle
 

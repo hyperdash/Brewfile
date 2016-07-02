@@ -62,6 +62,7 @@ brew brew-file
 
 # App Store applications
 appstore 455068834 Adobe Revel
+appstore 998255317 Bitcoin Ticker
 appstore 606957946 BitcoinMonitor
 appstore 425264550 Blackmagic Disk Speed Test
 appstore 549083868 Display Menu

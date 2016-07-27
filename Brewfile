@@ -96,9 +96,6 @@ tap homebrew/versions
 brew mysql56
 brew redis28
 
-tap kosaka-kazuhiro/mitaka
-cask mitaka
-
 tap rcmdnk/file
 brew brew-file
 

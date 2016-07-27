@@ -20,6 +20,7 @@ cask intellij-idea
 cask istat-menus
 cask kindle
 cask mysqlworkbench
+cask securid
 cask sizeup
 cask skype
 cask slack
@@ -67,7 +68,9 @@ brew libyaml
 brew logstash
 brew maven
 brew mongodb
+brew mysql
 brew nettle
+brew nodebrew
 brew oniguruma
 brew openssl
 brew pcre
@@ -78,6 +81,7 @@ brew python
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
+brew redis
 brew ruby-build
 brew ruby
 brew sbt
@@ -102,6 +106,7 @@ brew brew-file
 # App Store applications
 appstore 455068834 Adobe Revel
 appstore 998255317 Bitcoin Ticker
+appstore 606957946 BitcoinMonitor
 appstore 606957946 BitcoinMonitor
 appstore 425264550 Blackmagic Disk Speed Test
 appstore 433335799 CodeRunner

@@ -9,8 +9,8 @@ cask alfred
 cask appcleaner
 cask avast
 cask disk-sensei
+cask docker-toolbox
 cask docker
-cask dockertoolbox
 cask dropbox
 cask firefox
 cask google-chrome

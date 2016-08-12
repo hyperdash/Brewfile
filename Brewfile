@@ -9,7 +9,6 @@ cask alfred
 cask appcleaner
 cask avast
 cask disk-sensei
-cask docker-toolbox
 cask docker
 cask dropbox
 cask firefox
@@ -47,12 +46,7 @@ brew autoconf
 brew aws-elasticbeanstalk
 brew awscli
 brew boost
-brew boot2docker
 brew cask
-brew docker-compose
-brew docker-machine
-brew docker-swarm
-brew docker
 brew elasticsearch
 brew emacs
 brew gdbm
@@ -106,7 +100,6 @@ brew brew-file
 # App Store applications
 appstore 455068834 Adobe Revel
 appstore 998255317 Bitcoin Ticker
-appstore 606957946 BitcoinMonitor
 appstore 606957946 BitcoinMonitor
 appstore 425264550 Blackmagic Disk Speed Test
 appstore 433335799 CodeRunner

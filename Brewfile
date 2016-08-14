@@ -85,6 +85,7 @@ brew ruby
 brew sbt
 brew scala
 brew skinny
+brew sphinx-doc
 brew sqlite
 brew stoken
 brew tmux
@@ -105,6 +106,7 @@ brew brew-file
 # App Store applications
 appstore 455068834 Adobe Revel
 appstore 998255317 Bitcoin Ticker
+appstore 606957946 BitcoinMonitor
 appstore 606957946 BitcoinMonitor
 appstore 425264550 Blackmagic Disk Speed Test
 appstore 926707738 Countdowns

@@ -43,13 +43,16 @@ tap homebrew/bundle
 tap homebrew/core
 brew ant
 brew autoconf
+brew automake
 brew aws-elasticbeanstalk
 brew awscli
+brew axel
 brew boost
 brew cask
 brew elasticsearch
 brew emacs
 brew gdbm
+brew gettext
 brew git-flow
 brew git
 brew glide
@@ -60,6 +63,7 @@ brew kibana
 brew libevent
 brew libyaml
 brew logstash
+brew makedepend
 brew maven
 brew mongodb
 brew mysql
@@ -87,6 +91,7 @@ brew tmux
 brew typesafe-activator
 brew vim
 brew wget
+brew xz
 brew zsh-completions
 brew zsh
 
@@ -102,7 +107,6 @@ appstore 455068834 Adobe Revel
 appstore 998255317 Bitcoin Ticker
 appstore 606957946 BitcoinMonitor
 appstore 425264550 Blackmagic Disk Speed Test
-appstore 433335799 CodeRunner
 appstore 926707738 Countdowns
 appstore 549083868 Display Menu
 appstore 439632992 Flightradar24
@@ -112,7 +116,6 @@ appstore 539883307 LINE
 appstore 409203825 Numbers
 appstore 711830901 OmniGraffle
 appstore 409201541 Pages
-appstore 429449079 Patterns
 appstore 948415170 Pushbullet
 appstore 409789998 Twitter
 appstore 497799835 Xcode

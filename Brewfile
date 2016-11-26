@@ -44,6 +44,7 @@ brew automake
 brew aws-elasticbeanstalk
 brew awscli
 brew axel
+brew bash-completion
 brew boost
 brew cairo
 brew cask
@@ -128,12 +129,12 @@ appstore 606957946 BitcoinMonitor (1.5.1)
 appstore 606957946 BitcoinMonitor (1.5.1)
 appstore 425264550 Blackmagic Disk Speed Test (3.0)
 appstore 433335799 CodeRunner (1.3.1)
-appstore 926707738 Countdowns (1.2.2)
+appstore 926707738 Countdowns (1.3)
 appstore 549083868 Display Menu (2.2.2)
 appstore 439632992 Flightradar24 (2.0.2)
 appstore 1085850238 GetRate (1.0.6)
 appstore 409183694 Keynote (7.0.5)
-appstore 539883307 LINE (4.10.0)
+appstore 539883307 LINE (4.10.2)
 appstore 409203825 Numbers (4.0.5)
 appstore 711830901 OmniGraffle (6.6.1)
 appstore 409201541 Pages (6.0.5)

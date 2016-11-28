@@ -4,6 +4,8 @@
 tap argon/mas
 brew mas
 
+tap buo/cask-upgrade
+
 tap caskroom/cask
 cask alfred
 cask appcleaner

@@ -37,10 +37,15 @@ tap caskroom/versions
 cask 1password-beta
 cask google-chrome-canary
 
+tap homebrew/apache
+brew ab
+
 tap homebrew/bundle
 
 tap homebrew/core
 brew ant
+brew apr
+brew apr-util
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
@@ -83,6 +88,7 @@ brew makedepend
 brew maven
 brew mongodb
 brew mysql
+brew mysql@5.6
 brew nettle
 brew nodebrew
 brew oniguruma
@@ -118,7 +124,6 @@ brew zsh
 brew zsh-completions
 
 tap homebrew/versions
-brew mysql56
 brew redis28
 
 tap rcmdnk/file
@@ -130,7 +135,6 @@ appstore 998255317 Bitcoin Ticker (1.2.1)
 appstore 606957946 BitcoinMonitor (1.5.1)
 appstore 606957946 BitcoinMonitor (1.5.1)
 appstore 425264550 Blackmagic Disk Speed Test (3.0)
-appstore 433335799 CodeRunner (1.3.1)
 appstore 926707738 Countdowns (1.3)
 appstore 549083868 Display Menu (2.2.2)
 appstore 439632992 Flightradar24 (2.0.2)

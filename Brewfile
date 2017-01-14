@@ -31,6 +31,7 @@ cask vagrant-manager
 cask vagrant
 cask virtualbox
 cask vlc
+cask whatsapp
 
 tap caskroom/versions
 cask 1password-beta
@@ -141,11 +142,11 @@ appstore 413857545 Divvy (1.5)
 appstore 439632992 Flightradar24 (2.0.2)
 appstore 1085850238 GetRate (1.0.6)
 appstore 409183694 Keynote (7.0.5)
-appstore 539883307 LINE (4.10.2)
+appstore 539883307 LINE (4.11.1)
 appstore 409203825 Numbers (4.0.5)
 appstore 711830901 OmniGraffle (6.6.1)
 appstore 409201541 Pages (6.0.5)
 appstore 429449079 Patterns (1.1.2)
 appstore 948415170 Pushbullet (4)
 appstore 409789998 Twitter (4.2.4)
-appstore 497799835 Xcode (8.1)
+appstore 497799835 Xcode (8.2.1)

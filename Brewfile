@@ -9,6 +9,7 @@ tap buo/cask-upgrade
 tap caskroom/cask
 cask alfred
 cask appcleaner
+cask atom
 cask disk-sensei
 cask docker
 cask dropbox
@@ -43,6 +44,7 @@ brew ab
 tap homebrew/bundle
 
 tap homebrew/core
+brew ansible
 brew ant
 brew apr
 brew apr-util
@@ -73,6 +75,7 @@ brew gobject-introspection
 brew harfbuzz
 brew icu4c
 brew ivy
+brew jmeter
 brew jpeg
 brew jq
 brew kibana
@@ -93,6 +96,8 @@ brew nettle
 brew nodebrew
 brew oniguruma
 brew openssl
+brew openssl@1.1
+brew packer
 brew pango
 brew pcre
 brew perl
@@ -104,6 +109,7 @@ brew rbenv
 brew readline
 brew reattach-to-user-namespace
 brew redis
+brew redis@2.8
 brew rename
 brew ruby
 brew ruby-build
@@ -125,29 +131,28 @@ brew zsh
 brew zsh-completions
 
 tap homebrew/versions
-brew redis28
 
 tap rcmdnk/file
 brew brew-file
 
 # App Store applications
 appstore 455068834 Adobe Revel (2.0.1)
-appstore 998255317 Bitcoin Ticker (1.3)
+appstore 998255317 Bitcoin Ticker (1.3.1)
 appstore 606957946 BitcoinMonitor (1.5.1)
-appstore 606957946 BitcoinMonitor (1.5.1)
-appstore 425264550 Blackmagic Disk Speed Test (3.0)
-appstore 955297617 CodeRunner (2.2.2)
+appstore 606957946 BitcoinMonitor (2.0)
+appstore 425264550 Blackmagic Disk Speed Test (3.1)
+appstore 955297617 CodeRunner (2.3)
 appstore 926707738 Countdowns (1.3)
 appstore 549083868 Display Menu (2.2.2)
 appstore 413857545 Divvy (1.5.1)
 appstore 439632992 Flightradar24 (2.0.2)
 appstore 1085850238 GetRate (1.0.6)
-appstore 409183694 Keynote (7.0.5)
-appstore 539883307 LINE (4.11.1)
-appstore 409203825 Numbers (4.0.5)
+appstore 409183694 Keynote (7.1.1)
+appstore 539883307 LINE (5.1.1)
+appstore 409203825 Numbers (4.1.1)
 appstore 711830901 OmniGraffle (6.6.1)
-appstore 409201541 Pages (6.0.5)
+appstore 409201541 Pages (6.1.1)
 appstore 429449079 Patterns (1.1.2)
 appstore 948415170 Pushbullet (4)
-appstore 409789998 Twitter (4.2.4)
-appstore 497799835 Xcode (8.2.1)
+appstore 409789998 Twitter (4.3.2)
+appstore 497799835 Xcode (8.3.3)

@@ -31,6 +31,7 @@ brew gmp
 brew go
 brew gobject-introspection
 brew graphite2
+brew hadoop
 brew harfbuzz
 brew icu4c
 brew ivy
@@ -164,3 +165,4 @@ appstore 409201541 Pages (6.3)
 appstore 429449079 Patterns (1.1.2)
 appstore 948415170 Pushbullet (4)
 appstore 409789998 Twitter (4.3.2)
+appstore 497799835 Xcode (9.0.1)

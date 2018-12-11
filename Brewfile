@@ -136,9 +136,10 @@ tap homebrew/versions
 tap homebrew/cask
 cask alfred
 cask atom
-cask cyberduck
-cask docker
-cask firefox
+cask coderunner
+cask disk-sensei
+cask dropbox
+cask google-chrome
 cask google-japanese-ime
 cask imageoptim
 cask istat-menus
@@ -166,10 +167,10 @@ brew ab
 # Other Cask applications
 cask appcleaner
 cask astah-community
-cask coderunner
-cask disk-sensei
-cask dropbox
-cask google-chrome
+cask carbon-copy-cloner
+cask cyberduck
+cask docker
+cask firefox
 cask google-drive
 cask grammarly
 cask intellij-idea
@@ -187,6 +188,8 @@ cask whatsapp
 # App Store applications
 appstore 455068834 Adobe Revel (2.0.1)
 appstore 998255317 Bitcoin Ticker (1.3.1)
+appstore 606957946 BitcoinMonitor (1.5.1)
+appstore 606957946 BitcoinMonitor (1.5.1)
 appstore 606957946 BitcoinMonitor (3.0.3)
 appstore 425264550 Blackmagic Disk Speed Test (3.2)
 appstore 456624497 Brightness Slider (1.2.6)

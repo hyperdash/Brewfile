@@ -49,6 +49,7 @@ brew jmeter
 brew jpeg
 brew jq
 brew kompose
+brew kubernetes-cli
 brew kubernetes-helm
 brew libassuan
 brew libcroco
@@ -160,6 +161,10 @@ tap grpc/grpc
 
 tap rcmdnk/file
 brew brew-file
+
+tap weaveworks/tap
+brew eksctl
+brew eksctl-aws-iam-authenticator
 
 # Other Homebrew packages
 brew ab

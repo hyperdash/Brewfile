@@ -74,7 +74,6 @@ brew makedepend
 brew mas
 brew maven
 brew mercurial
-brew mongodb
 brew mysql
 brew ncurses
 brew nettle

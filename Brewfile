@@ -140,9 +140,8 @@ cask iterm2
 cask kindle
 cask skype
 cask sourcetree
-cask the-unarchiver
-cask visual-studio-code
-cask whatsapp
+cask tunnelbear
+cask vlc
 
 tap argon/mas
 
@@ -169,9 +168,9 @@ cask java
 cask java8
 cask mysqlworkbench
 cask slack
-cask sublime-text
-cask tunnelbear
-cask vlc
+cask the-unarchiver
+cask visual-studio-code
+cask whatsapp
 
 # App Store applications
 appstore 1085850238  (1.0.6)

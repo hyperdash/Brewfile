@@ -19,6 +19,7 @@ brew cairo
 brew cask
 brew cmake
 brew direnv
+brew duti
 brew emacs
 brew fontconfig
 brew freetype
@@ -37,6 +38,8 @@ brew gnutls
 brew go
 brew gobject-introspection
 brew goenv
+brew gradle
+brew gradle-completion
 brew graphite2
 brew grpc
 brew hadoop
@@ -44,6 +47,7 @@ brew harfbuzz
 brew hbase
 brew icu4c
 brew ivy
+brew jemalloc
 brew jenv
 brew jmeter
 brew jpeg
@@ -53,6 +57,7 @@ brew kubernetes-cli
 brew kubernetes-helm
 brew libassuan
 brew libcroco
+brew libev
 brew libevent
 brew libffi
 brew libgcrypt
@@ -63,6 +68,7 @@ brew libpng
 brew librsvg
 brew libtasn1
 brew libtiff
+brew libtool
 brew libunistring
 brew libusb
 brew libyaml
@@ -73,10 +79,12 @@ brew make
 brew makedepend
 brew mas
 brew maven
+brew md5sha1sum
 brew mercurial
 brew mysql
 brew ncurses
 brew nettle
+brew node
 brew node-build
 brew nodenv
 brew npth
@@ -84,6 +92,7 @@ brew oniguruma
 brew openssl
 brew openssl@1.1
 brew p11-kit
+brew p7zip
 brew packer
 brew pango
 brew pcre
@@ -110,17 +119,20 @@ brew shared-mime-info
 brew skinny
 brew sphinx-doc
 brew sqlite
+brew squid
 brew stoken
 brew subversion
 brew terraform
 brew terraforming
 brew tmux
+brew trash
 brew tree
 brew typesafe-activator
 brew utf8proc
 brew vim
 brew wget
 brew xz
+brew zlib
 brew zookeeper
 brew zsh
 brew zsh-completions
@@ -134,13 +146,13 @@ cask java6
 tap homebrew/cask
 cask 1password
 cask appcleaner
-cask coderunner
-cask docker
-cask google-backup-and-sync
-cask google-japanese-ime
-cask imageoptim
-cask istat-menus
-cask java
+cask avast-security
+cask disk-sensei
+cask firefox
+cask google-chrome
+cask grammarly
+cask intellij-idea
+cask iterm2
 cask kindle
 cask skype
 cask sourcetree
@@ -164,12 +176,13 @@ brew eksctl-aws-iam-authenticator
 # Other Cask applications
 cask alfred
 cask authy
-cask disk-sensei
-cask firefox
-cask google-chrome
-cask grammarly
-cask intellij-idea
-cask iterm2
+cask coderunner
+cask docker
+cask google-backup-and-sync
+cask google-japanese-ime
+cask imageoptim
+cask istat-menus
+cask java
 cask java8
 cask mysqlworkbench
 cask slack
@@ -179,25 +192,28 @@ cask vlc
 cask wkhtmltopdf
 
 # App Store applications
-appstore 455068834 Adobe Revel (2.0.1)
-appstore 998255317 Bitcoin Ticker (1.3.1)
-appstore 425264550 Blackmagic Disk Speed Test (3.2)
-appstore 456624497 Brightness Slider (1.2.6)
-appstore 926707738 Countdowns (1.3.2)
-appstore 549083868 Display Menu (2.2.3)
-appstore 413857545 Divvy (1.5.1)
-appstore 439632992 Flightradar24 (2.0.2)
-appstore 1085850238 GetRate (1.0.6)
-appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.13.1)
-appstore 409203825 Numbers (5.3)
-appstore 711830901 OmniGraffle (6.6.2)
-appstore 1188020834 OverPicture (1.5)
-appstore 409201541 Pages (7.3)
-appstore 429449079 Patterns (1.1.2)
-appstore 1160374471 PiPifier (1.2.4)
-appstore 948415170 Pushbullet (4)
-appstore 412356892 Speed-Up (2.4.2)
-appstore 485812721 TweetDeck (3.10)
-appstore 409789998 Twitter (4.3.2)
-appstore 497799835 Xcode (10.1)
+appstore 1085850238  (1.0.6)
+appstore 429449079  (1.1.2)
+appstore 1033074719  (1.15)
+appstore 1160374471  (1.2.4)
+appstore 456624497  (1.2.6)
+appstore 998255317  (1.3.1)
+appstore 926707738  (1.3.2)
+appstore 1188020834  (1.5)
+appstore 413857545  (1.5.1)
+appstore 497799835  (10.1)
+appstore 455068834  (2.0.1)
+appstore 439632992  (2.0.2)
+appstore 549083868  (2.2.3)
+appstore 412356892  (2.4.2)
+appstore 955297617  (3.0)
+appstore 606957946  (3.0.3)
+appstore 485812721  (3.11)
+appstore 425264550  (3.2)
+appstore 948415170  (4)
+appstore 409789998  (4.3.2)
+appstore 539883307  (5.13.1)
+appstore 409203825  (5.3)
+appstore 711830901  (6.6.1)
+appstore 409201541  (7.3)
+appstore 409183694  (8.3)

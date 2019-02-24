@@ -135,7 +135,13 @@ brew xz
 brew zlib
 brew zookeeper
 brew zsh
+brew zsh-autosuggestions
 brew zsh-completions
+brew zsh-git-prompt
+brew zsh-history-substring-search
+brew zsh-lovers
+brew zsh-navigation-tools
+brew zsh-syntax-highlighting
 
 tap homebrew/bundle
 
@@ -159,6 +165,7 @@ cask sourcetree
 cask the-unarchiver
 cask visual-studio-code
 cask whatsapp
+cask xquartz
 
 tap argon/mas
 

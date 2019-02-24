@@ -22,12 +22,14 @@ brew direnv
 brew duti
 brew emacs
 brew fontconfig
+brew fontforge
 brew freetype
 brew fribidi
 brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew gflags
+brew giflib
 brew git
 brew git-flow
 brew glib
@@ -66,9 +68,11 @@ brew libidn2
 brew libksba
 brew libpng
 brew librsvg
+brew libspiro
 brew libtasn1
 brew libtiff
 brew libtool
+brew libuninameslist
 brew libunistring
 brew libusb
 brew libyaml
@@ -155,10 +159,11 @@ cask appcleaner
 cask avast-security
 cask disk-sensei
 cask firefox
-cask google-chrome
-cask grammarly
-cask intellij-idea
-cask iterm2
+cask google-backup-and-sync
+cask google-japanese-ime
+cask imageoptim
+cask istat-menus
+cask java
 cask kindle
 cask skype
 cask sourcetree
@@ -171,10 +176,16 @@ tap argon/mas
 
 tap buo/cask-upgrade
 
+tap caskroom/fonts
+cask font-hack-nerd-font
+
 tap grpc/grpc
 
 tap rcmdnk/file
 brew brew-file
+
+tap sanemat/font
+brew ricty --with-powerline
 
 tap weaveworks/tap
 brew eksctl
@@ -185,11 +196,10 @@ cask alfred
 cask authy
 cask coderunner
 cask docker
-cask google-backup-and-sync
-cask google-japanese-ime
-cask imageoptim
-cask istat-menus
-cask java
+cask google-chrome
+cask grammarly
+cask intellij-idea
+cask iterm2
 cask java8
 cask mysqlworkbench
 cask slack

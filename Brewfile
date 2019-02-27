@@ -10,6 +10,7 @@ brew apr-util
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
+brew aws-iam-authenticator
 brew awscli
 brew axel
 brew bash-completion

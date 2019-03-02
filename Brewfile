@@ -150,6 +150,9 @@ brew zsh-syntax-highlighting
 
 tap homebrew/bundle
 
+tap homebrew/cask-fonts
+cask font-hack-nerd-font
+
 tap homebrew/cask-versions
 cask google-chrome-canary
 cask java6
@@ -178,7 +181,7 @@ tap argon/mas
 tap buo/cask-upgrade
 
 tap caskroom/fonts
-cask font-hack-nerd-font
+cask font-source-code-pro-for-powerline
 
 tap grpc/grpc
 
@@ -210,28 +213,28 @@ cask vlc
 cask wkhtmltopdf
 
 # App Store applications
-appstore 455068834 Adobe Revel (2.0.1)
-appstore 1033074719 Bilingual News (1.15)
-appstore 998255317 Bitcoin Ticker (1.3.1)
-appstore 606957946 BitcoinMonitor (3.0.3)
-appstore 425264550 Blackmagic Disk Speed Test (3.2)
-appstore 456624497 Brightness Slider (1.2.6)
-appstore 955297617 CodeRunner (3.0)
-appstore 926707738 Countdowns (1.3.2)
-appstore 549083868 Display Menu (2.2.3)
-appstore 413857545 Divvy (1.5.1)
-appstore 439632992 Flightradar24 (2.0.2)
-appstore 1085850238 GetRate (1.0.6)
-appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.13.1)
-appstore 409203825 Numbers (5.3)
-appstore 711830901 OmniGraffle (6.6.2)
-appstore 1188020834 OverPicture (1.5)
-appstore 409201541 Pages (7.3)
-appstore 429449079 Patterns (1.1.2)
-appstore 1160374471 PiPifier (1.2.4)
-appstore 948415170 Pushbullet (4)
-appstore 412356892 Speed-Up (2.4.2)
-appstore 485812721 TweetDeck (3.10)
-appstore 409789998 Twitter (4.3.2)
-appstore 497799835 Xcode (10.1)
+appstore 1085850238  (1.0.6)
+appstore 429449079  (1.1.2)
+appstore 1033074719  (1.15)
+appstore 1160374471  (1.2.4)
+appstore 456624497  (1.2.6)
+appstore 998255317  (1.3.1)
+appstore 926707738  (1.3.2)
+appstore 1188020834  (1.5)
+appstore 413857545  (1.5.1)
+appstore 497799835  (10.1)
+appstore 455068834  (2.0.1)
+appstore 439632992  (2.0.2)
+appstore 549083868  (2.2.3)
+appstore 412356892  (2.4.2)
+appstore 955297617  (3.0)
+appstore 606957946  (3.0.3)
+appstore 485812721  (3.13)
+appstore 425264550  (3.2)
+appstore 948415170  (4)
+appstore 409789998  (4.3.2)
+appstore 539883307  (5.14.0)
+appstore 409203825  (5.3)
+appstore 711830901  (6.6.1)
+appstore 409201541  (7.3)
+appstore 409183694  (8.3)

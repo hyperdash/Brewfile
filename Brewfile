@@ -180,9 +180,6 @@ tap argon/mas
 
 tap buo/cask-upgrade
 
-tap caskroom/fonts
-cask font-source-code-pro-for-powerline
-
 tap grpc/grpc
 
 tap rcmdnk/file
@@ -200,6 +197,7 @@ cask alfred
 cask authy
 cask coderunner
 cask docker
+cask font-source-code-pro-for-powerline
 cask google-chrome
 cask grammarly
 cask intellij-idea

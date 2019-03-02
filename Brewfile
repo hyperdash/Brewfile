@@ -124,7 +124,6 @@ brew shared-mime-info
 brew skinny
 brew sphinx-doc
 brew sqlite
-brew squid
 brew stoken
 brew subversion
 brew terraform

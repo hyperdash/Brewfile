@@ -138,6 +138,7 @@ brew utf8proc
 brew vim
 brew wget
 brew xz
+brew yamllint
 brew zlib
 brew zookeeper
 brew zsh

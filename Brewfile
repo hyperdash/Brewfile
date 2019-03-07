@@ -183,6 +183,9 @@ tap argon/mas
 
 tap buo/cask-upgrade
 
+tap garethr/kubeval
+brew kubeval
+
 tap grpc/grpc
 
 tap rcmdnk/file

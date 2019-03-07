@@ -139,6 +139,7 @@ brew vim
 brew wget
 brew xz
 brew yamllint
+brew yq
 brew zlib
 brew zookeeper
 brew zsh

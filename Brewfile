@@ -103,6 +103,7 @@ brew maven
 brew md5sha1sum
 brew mercurial
 brew mysql
+brew nasm
 brew ncurses
 brew nettle
 brew node
@@ -155,6 +156,7 @@ brew subversion
 brew terraform
 brew terraforming
 brew tesseract
+brew texi2html
 brew theora
 brew tmux
 brew trash

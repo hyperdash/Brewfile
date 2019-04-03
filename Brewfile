@@ -53,6 +53,7 @@ brew grpc
 brew hadoop
 brew harfbuzz
 brew hbase
+brew helmfile
 brew icu4c
 brew ivy
 brew jemalloc

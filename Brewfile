@@ -54,6 +54,7 @@ brew hadoop
 brew harfbuzz
 brew hbase
 brew helmfile
+brew hub
 brew icu4c
 brew ivy
 brew jemalloc

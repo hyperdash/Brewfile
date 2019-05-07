@@ -231,7 +231,6 @@ brew ricty --with-powerline
 
 tap weaveworks/tap
 brew eksctl
-brew eksctl-aws-iam-authenticator
 
 # Other Cask applications
 cask alfred

@@ -163,7 +163,6 @@ brew theora
 brew tmux
 brew trash
 brew tree
-brew typesafe-activator
 brew unbound
 brew utf8proc
 brew vim
@@ -231,6 +230,9 @@ brew ricty --with-powerline
 
 tap weaveworks/tap
 brew eksctl
+
+# Other Homebrew packages
+brew typesafe-activator
 
 # Other Cask applications
 cask alfred

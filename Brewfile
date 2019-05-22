@@ -206,12 +206,12 @@ cask imageoptim
 cask istat-menus
 cask java
 cask kindle
-cask skype
-cask sourcetree
-cask the-unarchiver
-cask visual-studio-code
-cask whatsapp
-cask xquartz
+cask mysqlworkbench
+cask slack
+cask station
+cask tunnelbear
+cask vlc
+cask wkhtmltopdf
 
 tap argon/mas
 
@@ -245,12 +245,13 @@ cask grammarly
 cask intellij-idea
 cask iterm2
 cask java8
-cask mysqlworkbench
-cask slack
-cask station
-cask tunnelbear
-cask vlc
-cask wkhtmltopdf
+cask marp
+cask skype
+cask sourcetree
+cask the-unarchiver
+cask visual-studio-code
+cask whatsapp
+cask xquartz
 
 # App Store applications
 appstore 455068834 com.adobe.Carousel.mac (2.0.1)

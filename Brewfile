@@ -192,7 +192,7 @@ cask font-hack-nerd-font
 
 tap homebrew/cask-versions
 cask google-chrome-canary
-cask java6
+cask java11
 
 tap homebrew/cask
 cask 1password
@@ -245,6 +245,7 @@ cask google-chrome
 cask grammarly
 cask intellij-idea
 cask iterm2
+cask java6
 cask java8
 cask marp
 cask skype

@@ -209,10 +209,10 @@ cask kindle
 cask mysqlworkbench
 cask slack
 cask sourcetree
-cask the-unarchiver
-cask visual-studio-code
-cask whatsapp
-cask xquartz
+cask synergy
+cask tunnelbear
+cask vlc
+cask wkhtmltopdf
 
 tap argon/mas
 
@@ -251,9 +251,10 @@ cask marp
 cask skype
 cask soundflower
 cask station
-cask tunnelbear
-cask vlc
-cask wkhtmltopdf
+cask the-unarchiver
+cask visual-studio-code
+cask whatsapp
+cask xquartz
 
 # App Store applications
 appstore 455068834 Adobe Revel (2.0.1)

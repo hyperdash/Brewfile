@@ -65,6 +65,7 @@ brew jq
 brew kompose
 brew kubernetes-cli
 brew kubernetes-helm
+brew kustomize
 brew lame
 brew leptonica
 brew libass

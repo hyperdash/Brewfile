@@ -92,6 +92,7 @@ brew libtool
 brew libuninameslist
 brew libunistring
 brew libusb
+brew libvidstab
 brew libvorbis
 brew libvpx
 brew libyaml
@@ -282,4 +283,4 @@ appstore 948415170 Pushbullet (4)
 appstore 412356892 Speed-Up (2.4.2)
 appstore 485812721 TweetDeck (3.16.1)
 appstore 409789998 Twitter (4.3.2)
-appstore 497799835 Xcode (10.3)
+appstore 497799835 Xcode (11.0)

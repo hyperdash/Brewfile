@@ -206,7 +206,6 @@ cask grammarly
 cask istat-menus
 cask java
 cask kindle
-cask skype
 cask soundflower
 cask station
 cask the-unarchiver
@@ -243,7 +242,6 @@ cask intellij-idea
 cask iterm2
 cask java6
 cask mysqlworkbench
-cask slack
 cask sourcetree
 cask synergy
 cask tunnelbear

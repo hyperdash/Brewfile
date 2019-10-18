@@ -62,6 +62,7 @@ brew jmeter
 brew jpeg
 brew jq
 brew kompose
+brew kubectx
 brew kubernetes-cli
 brew kubernetes-helm
 brew kustomize
@@ -143,7 +144,6 @@ brew rubberband
 brew ruby
 brew ruby-build
 brew sbtenv
-brew scalaenv
 brew scons
 brew sdl2
 brew shared-mime-info
@@ -154,6 +154,7 @@ brew speex
 brew sphinx-doc
 brew sqlite
 brew squid
+brew stern
 brew stoken
 brew subversion
 brew terraform
@@ -253,7 +254,7 @@ appstore 425264550 Disk Speed Test (3.2)
 appstore 549083868 Display Menu (2.2.3)
 appstore 413857545 Divvy (1.5.2)
 appstore 409183694 Keynote (9.2)
-appstore 539883307 LINE (5.19.0)
+appstore 539883307 LINE (5.19.1)
 appstore 409203825 Numbers (6.2)
 appstore 409201541 Pages (8.2)
 appstore 429449079 Patterns (1.2)

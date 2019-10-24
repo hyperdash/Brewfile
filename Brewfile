@@ -217,6 +217,12 @@ tap argon/mas
 
 tap buo/cask-upgrade
 
+tap derailed/k9s
+brew k9s
+
+tap dtan4/dtan4
+brew k8stail
+
 tap garethr/kubeval
 brew kubeval
 

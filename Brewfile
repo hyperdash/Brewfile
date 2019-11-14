@@ -131,6 +131,7 @@ brew pinentry
 brew pixman
 brew pkg-config
 brew protobuf
+brew protobuf@3.7
 brew pyenv
 brew python
 brew python@2

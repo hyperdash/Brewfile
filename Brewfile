@@ -52,6 +52,7 @@ brew graphite2
 brew grpc
 brew hadoop
 brew harfbuzz
+brew helm
 brew helmfile
 brew hub
 brew icu4c
@@ -64,7 +65,6 @@ brew jq
 brew kompose
 brew kubectx
 brew kubernetes-cli
-brew kubernetes-helm
 brew kustomize
 brew lame
 brew leptonica

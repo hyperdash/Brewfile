@@ -117,7 +117,6 @@ brew npth
 brew oniguruma
 brew opencore-amr
 brew openjpeg
-brew openssl
 brew openssl@1.1
 brew opus
 brew p11-kit

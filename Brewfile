@@ -228,6 +228,8 @@ brew kubeval
 
 tap grpc/grpc
 
+tap okteto/cli
+
 tap rcmdnk/file
 brew brew-file
 

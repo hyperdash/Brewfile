@@ -200,17 +200,19 @@ tap homebrew/cask
 cask 1password
 cask appcleaner
 cask coderunner
-cask docker
+cask disk-sensei
+cask fantastical
 cask gimp
 cask google-chrome
 cask google-japanese-ime
 cask intellij-idea
 cask iterm2
 cask kindle
-cask soundflower
-cask station
-cask the-unarchiver
-cask visual-studio-code
+cask pdf-expert
+cask sourcetree
+cask synergy
+cask tunnelbear
+cask vlc
 cask wkhtmltopdf
 
 tap argon/mas
@@ -242,7 +244,8 @@ brew eksctl
 # Other Cask applications
 cask alfred
 cask authy
-cask disk-sensei
+cask daisydisk
+cask docker
 cask firefox
 cask font-source-code-pro-for-powerline
 cask google-backup-and-sync
@@ -252,10 +255,11 @@ cask istat-menus
 cask java
 cask java6
 cask mysqlworkbench
-cask sourcetree
-cask synergy
-cask tunnelbear
-cask vlc
+cask soundflower
+cask station
+cask the-unarchiver
+cask visual-studio-code
+cask waltr
 
 # App Store applications
 appstore 456624497 Brightness Slider (1.2.6)

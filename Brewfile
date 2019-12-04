@@ -63,6 +63,7 @@ brew jmeter
 brew jpeg
 brew jq
 brew kompose
+brew krew
 brew kubectx
 brew kubernetes-cli
 brew kustomize

@@ -31,6 +31,7 @@ brew fontforge
 brew freetype
 brew frei0r
 brew fribidi
+brew gcsfuse
 brew gdbm
 brew gdk-pixbuf
 brew gettext
@@ -209,12 +210,12 @@ cask google-japanese-ime
 cask intellij-idea
 cask iterm2
 cask kindle
-cask pdf-expert
-cask sourcetree
-cask synergy
-cask tunnelbear
-cask vlc
-cask wkhtmltopdf
+cask osxfuse
+cask soundflower
+cask station
+cask the-unarchiver
+cask visual-studio-code
+cask waltr
 
 tap argon/mas
 
@@ -256,11 +257,12 @@ cask istat-menus
 cask java
 cask java6
 cask mysqlworkbench
-cask soundflower
-cask station
-cask the-unarchiver
-cask visual-studio-code
-cask waltr
+cask pdf-expert
+cask sourcetree
+cask synergy
+cask tunnelbear
+cask vlc
+cask wkhtmltopdf
 
 # App Store applications
 appstore 456624497 Brightness Slider (1.2.6)

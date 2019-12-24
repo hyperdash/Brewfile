@@ -14,6 +14,7 @@ brew aws-elasticbeanstalk
 brew aws-iam-authenticator
 brew awscli
 brew axel
+brew bash
 brew bash-completion
 brew boost
 brew c-ares

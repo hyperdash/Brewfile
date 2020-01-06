@@ -137,6 +137,7 @@ brew protobuf@3.7
 brew pyenv
 brew python
 brew python@2
+brew python@3.8
 brew rbenv
 brew readline
 brew reattach-to-user-namespace

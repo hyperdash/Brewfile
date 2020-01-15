@@ -195,29 +195,48 @@ tap homebrew/bundle
 
 tap homebrew/cask-fonts
 cask font-hack-nerd-font
+cask font-source-code-pro-for-powerline
 
 tap homebrew/cask-versions
 cask google-chrome-canary
 cask java11
+cask java6
 
 tap homebrew/cask
 cask 1password
+cask alfred
 cask appcleaner
+cask authy
 cask coderunner
+cask daisydisk
 cask disk-sensei
+cask docker
 cask fantastical
+cask firefox
 cask gimp
+cask google-backup-and-sync
 cask google-chrome
+cask google-cloud-sdk
 cask google-japanese-ime
+cask grammarly
 cask intellij-idea
+cask istat-menus
 cask iterm2
+cask java
 cask kindle
+cask mysqlworkbench
 cask osxfuse
+cask pdf-expert
 cask soundflower
+cask sourcetree
 cask station
+cask synergy
 cask the-unarchiver
+cask tunnelbear
 cask visual-studio-code
+cask vlc
 cask waltr
+cask wkhtmltopdf
 
 tap argon/mas
 
@@ -245,27 +264,6 @@ brew ricty --with-powerline
 tap weaveworks/tap
 brew eksctl
 
-# Other Cask applications
-cask alfred
-cask authy
-cask daisydisk
-cask docker
-cask firefox
-cask font-source-code-pro-for-powerline
-cask google-backup-and-sync
-cask google-cloud-sdk
-cask grammarly
-cask istat-menus
-cask java
-cask java6
-cask mysqlworkbench
-cask pdf-expert
-cask sourcetree
-cask synergy
-cask tunnelbear
-cask vlc
-cask wkhtmltopdf
-
 # App Store applications
 appstore 456624497 Brightness Slider (1.2.6)
 appstore 425264550 Disk Speed Test (3.2)
@@ -277,4 +275,4 @@ appstore 409203825 Numbers (6.2.1)
 appstore 409201541 Pages (8.2.1)
 appstore 429449079 Patterns (1.2)
 appstore 412356892 Speed-Up (2.4.2)
-appstore 497799835 Xcode (11.2.1)
+appstore 497799835 Xcode (11.3.1)

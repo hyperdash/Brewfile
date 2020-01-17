@@ -209,7 +209,6 @@ cask appcleaner
 cask authy
 cask coderunner
 cask daisydisk
-cask disk-sensei
 cask docker
 cask fantastical
 cask firefox
@@ -263,6 +262,9 @@ brew ricty --with-powerline
 
 tap weaveworks/tap
 brew eksctl
+
+# Other Cask applications
+cask disk-sensei
 
 # App Store applications
 appstore 456624497 Brightness Slider (1.2.6)

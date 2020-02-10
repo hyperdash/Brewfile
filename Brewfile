@@ -113,12 +113,12 @@ brew mysql
 brew nasm
 brew ncurses
 brew nettle
-brew node
 brew node-build
 brew nodenv
 brew npth
 brew oniguruma
 brew opencore-amr
+brew openjdk
 brew openjpeg
 brew openssl@1.1
 brew opus

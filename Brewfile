@@ -47,7 +47,7 @@ brew gnupg
 brew gnutls
 brew go
 brew gobject-introspection
-brew goenv
+brew goenv --HEAD
 brew gradle
 brew gradle-completion
 brew graphite2
@@ -136,7 +136,6 @@ brew protobuf
 brew protobuf@3.7
 brew pyenv
 brew python
-brew python@2
 brew python@3.8
 brew rbenv
 brew readline
@@ -147,7 +146,8 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew ruby-build
-brew sbtenv
+brew sbtenv --HEAD
+brew scalaenv --HEAD
 brew scons
 brew sdl2
 brew shared-mime-info
@@ -226,7 +226,6 @@ cask kindle
 cask mysqlworkbench
 cask osxfuse
 cask pdf-expert
-cask soundflower
 cask sourcetree
 cask station
 cask synergy

@@ -153,6 +153,7 @@ brew sdl2
 brew shared-mime-info
 brew shfmt
 brew skinny
+brew slackcat
 brew snappy
 brew speex
 brew sphinx-doc

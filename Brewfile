@@ -33,6 +33,7 @@ brew freetype
 brew frei0r
 brew fribidi
 brew gcsfuse
+brew gd
 brew gdbm
 brew gdk-pixbuf
 brew gettext
@@ -47,11 +48,13 @@ brew gnupg
 brew gnutls
 brew go
 brew gobject-introspection
-brew goenv --HEAD
+brew goenv
 brew gradle
 brew gradle-completion
 brew graphite2
+brew graphviz
 brew grpc
+brew gts
 brew hadoop
 brew harfbuzz
 brew helm
@@ -59,6 +62,7 @@ brew helmfile
 brew hub
 brew icu4c
 brew ivy
+brew jasper
 brew jemalloc
 brew jenv
 brew jmeter
@@ -112,6 +116,7 @@ brew mercurial
 brew mysql
 brew nasm
 brew ncurses
+brew netpbm
 brew nettle
 brew node-build
 brew nodenv
@@ -208,6 +213,7 @@ cask 1password
 cask alfred
 cask appcleaner
 cask authy
+cask blackhole
 cask coderunner
 cask daisydisk
 cask docker
@@ -227,6 +233,7 @@ cask kindle
 cask mysqlworkbench
 cask osxfuse
 cask pdf-expert
+cask slack
 cask sourcetree
 cask station
 cask synergy
@@ -257,11 +264,18 @@ tap okteto/cli
 tap rcmdnk/file
 brew brew-file
 
+tap rs/tap
+brew jaggr
+brew jplot
+
 tap sanemat/font
 brew ricty --with-powerline
 
 tap weaveworks/tap
 brew eksctl
+
+# Other Homebrew packages
+brew python@2
 
 # Other Cask applications
 cask disk-sensei
@@ -272,7 +286,8 @@ appstore 425264550 Disk Speed Test (3.2)
 appstore 549083868 Display Menu (2.2.3)
 appstore 413857545 Divvy (1.5.2)
 appstore 409183694 Keynote (9.2.1)
-appstore 539883307 LINE (5.22.0)
+appstore 411213048 LadioCast (000013000)
+appstore 539883307 LINE (5.21.3)
 appstore 409203825 Numbers (6.2.1)
 appstore 409201541 Pages (8.2.1)
 appstore 429449079 Patterns (1.2)

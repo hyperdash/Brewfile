@@ -70,6 +70,7 @@ brew jpeg
 brew jq
 brew kompose
 brew krew
+brew kube-ps1
 brew kubectx
 brew kubernetes-cli
 brew kustomize
@@ -287,7 +288,7 @@ appstore 549083868 Display Menu (2.2.3)
 appstore 413857545 Divvy (1.5.2)
 appstore 409183694 Keynote (9.2.1)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (5.21.3)
+appstore 539883307 LINE (5.22.0)
 appstore 409203825 Numbers (6.2.1)
 appstore 409201541 Pages (8.2.1)
 appstore 429449079 Patterns (1.2)

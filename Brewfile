@@ -234,6 +234,7 @@ cask kindle
 cask mysqlworkbench
 cask osxfuse
 cask pdf-expert
+cask skype-for-business
 cask slack
 cask sourcetree
 cask station

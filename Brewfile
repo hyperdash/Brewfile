@@ -239,6 +239,7 @@ cask slack
 cask sourcetree
 cask station
 cask synergy
+cask tandem
 cask the-unarchiver
 cask tunnelbear
 cask visual-studio-code

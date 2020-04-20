@@ -215,6 +215,7 @@ cask alfred
 cask appcleaner
 cask authy
 cask blackhole
+cask chrome-remote-desktop-host
 cask coderunner
 cask daisydisk
 cask docker
@@ -291,9 +292,10 @@ appstore 549083868 Display Menu (2.2.3)
 appstore 413857545 Divvy (1.5.2)
 appstore 409183694 Keynote (10.0)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (5.24.0)
+appstore 539883307 LINE (5.24.1)
 appstore 409203825 Numbers (10.0)
 appstore 409201541 Pages (10.0)
 appstore 429449079 Patterns (1.2)
+appstore 403195710 Remote Mouse (2.909)
 appstore 412356892 Speed-Up (2.4.2)
-appstore 497799835 Xcode (11.4)
+appstore 497799835 Xcode (11.4.1)

@@ -247,6 +247,7 @@ cask visual-studio-code
 cask vlc
 cask waltr
 cask wkhtmltopdf
+cask zoomus
 
 tap argon/mas
 

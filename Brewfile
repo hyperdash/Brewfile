@@ -165,6 +165,7 @@ brew speex
 brew sphinx-doc
 brew sqlite
 brew squid
+brew srt
 brew stern
 brew stoken
 brew subversion

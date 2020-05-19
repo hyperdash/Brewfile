@@ -23,6 +23,8 @@ brew cask
 brew circleci
 brew cmake
 brew direnv
+brew docbook
+brew docbook-xsl
 brew duti
 brew emacs
 brew ffmpeg
@@ -44,6 +46,7 @@ brew git-flow
 brew glib
 brew glide
 brew gmp
+brew gnu-getopt
 brew gnupg
 brew gnutls
 brew go
@@ -184,6 +187,7 @@ brew webp
 brew wget
 brew x264
 brew x265
+brew xmlto
 brew xvid
 brew xz
 brew yamllint

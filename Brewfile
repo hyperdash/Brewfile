@@ -22,6 +22,7 @@ brew cairo
 brew cask
 brew circleci
 brew cmake
+brew dav1d
 brew direnv
 brew docbook
 brew docbook-xsl

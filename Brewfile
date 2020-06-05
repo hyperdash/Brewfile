@@ -225,6 +225,7 @@ cask chrome-remote-desktop-host
 cask coderunner
 cask daisydisk
 cask docker
+cask dropbox
 cask fantastical
 cask firefox
 cask gimp
@@ -305,4 +306,4 @@ appstore 409201541 Pages (10.0)
 appstore 429449079 Patterns (1.2)
 appstore 403195710 Remote Mouse (2.909)
 appstore 412356892 Speed-Up (2.4.2)
-appstore 497799835 Xcode (11.4.1)
+appstore 497799835 Xcode (11.5)

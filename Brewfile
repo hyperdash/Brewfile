@@ -23,6 +23,7 @@ brew cask
 brew circleci
 brew cmake
 brew dav1d
+brew digdag
 brew direnv
 brew docbook
 brew docbook-xsl
@@ -211,12 +212,14 @@ cask font-hack-nerd-font
 cask font-source-code-pro-for-powerline
 
 tap homebrew/cask-versions
+cask adoptopenjdk8
 cask google-chrome-canary
 cask java11
 cask java6
 
 tap homebrew/cask
 cask 1password
+cask adoptopenjdk
 cask alfred
 cask appcleaner
 cask authy

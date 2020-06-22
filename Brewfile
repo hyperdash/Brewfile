@@ -23,7 +23,6 @@ brew cask
 brew circleci
 brew cmake
 brew dav1d
-brew digdag
 brew direnv
 brew docbook
 brew docbook-xsl
@@ -148,6 +147,7 @@ brew protobuf@3.7
 brew pyenv
 brew python
 brew python@3.8
+brew rav1e
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
@@ -245,6 +245,8 @@ cask kindle
 cask mysqlworkbench
 cask osxfuse
 cask pdf-expert
+cask r
+cask rstudio
 cask skype-for-business
 cask slack
 cask sourcetree
@@ -298,6 +300,7 @@ cask disk-sensei
 # App Store applications
 appstore 456624497 Brightness Slider (1.2.6)
 appstore 955297617 CodeRunner (3.0)
+appstore 640199958 Developer (8.2.1)
 appstore 425264550 Disk Speed Test (3.2)
 appstore 549083868 Display Menu (2.2.3)
 appstore 413857545 Divvy (1.5.2)

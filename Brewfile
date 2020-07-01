@@ -300,7 +300,7 @@ cask disk-sensei
 # App Store applications
 appstore 456624497 Brightness Slider (1.2.6)
 appstore 955297617 CodeRunner (3.0)
-appstore 640199958 Developer (8.2.1)
+appstore 640199958 Developer (8.2.2)
 appstore 425264550 Disk Speed Test (3.2)
 appstore 549083868 Display Menu (2.2.3)
 appstore 413857545 Divvy (1.5.2)

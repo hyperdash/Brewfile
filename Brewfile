@@ -291,9 +291,6 @@ brew ricty --with-powerline
 tap weaveworks/tap
 brew eksctl
 
-# Other Homebrew packages
-brew python@2
-
 # Other Cask applications
 cask disk-sensei
 

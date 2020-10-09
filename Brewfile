@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew abseil
 brew adns
 brew ansible
 brew ant
@@ -16,6 +17,7 @@ brew awscli
 brew axel
 brew bash
 brew bash-completion
+brew bdw-gc
 brew boost
 brew c-ares
 brew cairo
@@ -27,6 +29,7 @@ brew direnv
 brew docbook
 brew docbook-xsl
 brew duti
+brew eksctl
 brew emacs
 brew ffmpeg
 brew flac
@@ -59,6 +62,7 @@ brew graphite2
 brew graphviz
 brew grpc
 brew gts
+brew guile
 brew hadoop
 brew harfbuzz
 brew helm
@@ -66,12 +70,14 @@ brew helmfile
 brew hub
 brew icu4c
 brew ivy
+brew jansson
 brew jasper
 brew jemalloc
 brew jenv
 brew jmeter
 brew jpeg
 brew jq
+brew k9s
 brew kompose
 brew krew
 brew kube-ps1
@@ -129,6 +135,7 @@ brew npth
 brew oniguruma
 brew opencore-amr
 brew openjdk
+brew openjdk@11
 brew openjpeg
 brew openssl@1.1
 brew opus
@@ -145,10 +152,11 @@ brew pkg-config
 brew protobuf
 brew protobuf@3.7
 brew pyenv
-brew python
 brew python@3.8
+brew python@3.9
 brew rav1e
 brew rbenv
+brew re2
 brew readline
 brew reattach-to-user-namespace
 brew redis
@@ -214,7 +222,6 @@ cask font-source-code-pro-for-powerline
 tap homebrew/cask-versions
 cask adoptopenjdk8
 cask google-chrome-canary
-cask java11
 cask java6
 
 tap homebrew/cask
@@ -240,7 +247,6 @@ cask grammarly
 cask intellij-idea
 cask istat-menus
 cask iterm2
-cask java
 cask kindle
 cask mysqlworkbench
 cask osxfuse
@@ -250,7 +256,6 @@ cask rstudio
 cask skype-for-business
 cask slack
 cask sourcetree
-cask station
 cask synergy
 cask tandem
 cask the-unarchiver
@@ -266,7 +271,6 @@ tap argon/mas
 tap buo/cask-upgrade
 
 tap derailed/k9s
-brew k9s
 
 tap dtan4/dtan4
 brew k8stail
@@ -289,27 +293,29 @@ tap sanemat/font
 brew ricty --with-powerline
 
 tap weaveworks/tap
-brew eksctl
 
 # Other Homebrew packages
 brew python@2
 
 # Other Cask applications
 cask disk-sensei
+cask java
+cask java11
+cask station
 
 # App Store applications
 appstore 456624497 Brightness Slider (1.2.6)
 appstore 955297617 CodeRunner (3.0)
-appstore 640199958 Developer (8.2.3)
+appstore 640199958 Developer (8.3)
 appstore 425264550 Disk Speed Test (3.2)
 appstore 549083868 Display Menu (2.2.3)
 appstore 413857545 Divvy (1.5.2)
-appstore 409183694 Keynote (10.0)
+appstore 409183694 Keynote (10.2)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (6.0.3)
-appstore 409203825 Numbers (10.0)
-appstore 409201541 Pages (10.0)
+appstore 539883307 LINE (6.3.1)
+appstore 409203825 Numbers (10.2)
+appstore 409201541 Pages (10.2)
 appstore 429449079 Patterns (1.2)
 appstore 403195710 Remote Mouse (2.909)
 appstore 412356892 Speed-Up (2.4.2)
-appstore 497799835 Xcode (11.5)
+appstore 497799835 Xcode (12.0.1)

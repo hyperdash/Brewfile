@@ -57,6 +57,7 @@ brew gnupg
 brew gnutls
 brew go
 brew gobject-introspection
+brew goenv
 brew gradle
 brew gradle-completion
 brew graphite2
@@ -181,6 +182,8 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew ruby-build
+brew sbtenv --HEAD
+brew scalaenv --HEAD
 brew scons
 brew sdl2
 brew shared-mime-info
@@ -320,6 +323,9 @@ brew ricty --with-powerline
 
 tap weaveworks/tap
 
+# Other Homebrew packages
+brew python@2
+
 # Other Cask applications
 cask disk-sensei
 cask java
@@ -327,6 +333,7 @@ cask java11
 cask station
 
 # App Store applications
+appstore 456624497 Brightness Slider (1.2.6)
 appstore 955297617 CodeRunner (4.0.2)
 appstore 640199958 Developer (8.3.2)
 appstore 425264550 Disk Speed Test (3.2)

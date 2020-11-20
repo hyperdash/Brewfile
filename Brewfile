@@ -18,6 +18,7 @@ brew axel
 brew bash
 brew bash-completion
 brew bdw-gc
+brew bitwarden-cli
 brew boost
 brew c-ares
 brew cairo
@@ -44,6 +45,7 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew gflags
+brew ghostscript
 brew giflib
 brew git
 brew git-flow
@@ -55,7 +57,6 @@ brew gnupg
 brew gnutls
 brew go
 brew gobject-introspection
-brew goenv
 brew gradle
 brew gradle-completion
 brew graphite2
@@ -69,6 +70,9 @@ brew helm
 brew helmfile
 brew hub
 brew icu4c
+brew ilmbase
+brew imagemagick
+brew istioctl
 brew ivy
 brew jansson
 brew jasper
@@ -90,14 +94,18 @@ brew libass
 brew libassuan
 brew libbluray
 brew libcroco
+brew libde265
 brew libev
 brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libheif
 brew libidn2
 brew libksba
+brew liblqr
 brew libogg
+brew libomp
 brew libpng
 brew librsvg
 brew libsamplerate
@@ -105,17 +113,21 @@ brew libsndfile
 brew libsoxr
 brew libspiro
 brew libtasn1
+brew libtermkey
 brew libtiff
 brew libtool
 brew libuninameslist
 brew libunistring
 brew libusb
+brew libuv
 brew libvidstab
 brew libvorbis
 brew libvpx
+brew libvterm
 brew libyaml
 brew little-cms2
 brew lua
+brew luajit
 brew lz4
 brew lzo
 brew make
@@ -124,16 +136,20 @@ brew mas
 brew maven
 brew md5sha1sum
 brew mercurial
+brew msgpack
 brew mysql
 brew nasm
 brew ncurses
+brew neovim
 brew netpbm
 brew nettle
+brew node
 brew node-build
 brew nodenv
 brew npth
 brew oniguruma
 brew opencore-amr
+brew openexr
 brew openjdk
 brew openjdk@11
 brew openjpeg
@@ -165,12 +181,11 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew ruby-build
-brew sbtenv --HEAD
-brew scalaenv --HEAD
 brew scons
 brew sdl2
 brew shared-mime-info
 brew shfmt
+brew sipcalc
 brew skinny
 brew slackcat
 brew snappy
@@ -191,6 +206,7 @@ brew tmux
 brew trash
 brew tree
 brew unbound
+brew unibilium
 brew utf8proc
 brew vim
 brew webp
@@ -230,6 +246,7 @@ cask adoptopenjdk
 cask alfred
 cask appcleaner
 cask authy
+cask bitwarden
 cask blackhole
 cask chrome-remote-desktop-host
 cask coderunner
@@ -238,6 +255,7 @@ cask docker
 cask dropbox
 cask fantastical
 cask firefox
+cask forticlient
 cask gimp
 cask google-backup-and-sync
 cask google-chrome
@@ -248,9 +266,12 @@ cask intellij-idea
 cask istat-menus
 cask iterm2
 cask kindle
+cask lunar
+cask monitorcontrol
 cask mysqlworkbench
 cask osxfuse
 cask pdf-expert
+cask pritunl
 cask r
 cask rstudio
 cask skype-for-business
@@ -260,6 +281,8 @@ cask synergy
 cask tandem
 cask the-unarchiver
 cask tunnelbear
+cask tunnelblick
+cask virtualbox
 cask visual-studio-code
 cask vlc
 cask waltr
@@ -278,6 +301,9 @@ brew k8stail
 tap garethr/kubeval
 brew kubeval
 
+tap googlecontainertools/kpt
+brew kpt
+
 tap grpc/grpc
 
 tap okteto/cli
@@ -294,9 +320,6 @@ brew ricty --with-powerline
 
 tap weaveworks/tap
 
-# Other Homebrew packages
-brew python@2
-
 # Other Cask applications
 cask disk-sensei
 cask java
@@ -304,7 +327,6 @@ cask java11
 cask station
 
 # App Store applications
-appstore 456624497 Brightness Slider (1.2.6)
 appstore 955297617 CodeRunner (4.0.2)
 appstore 640199958 Developer (8.3.2)
 appstore 425264550 Disk Speed Test (3.2)

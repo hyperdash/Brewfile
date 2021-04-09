@@ -17,15 +17,21 @@ brew awscli
 brew axel
 brew bash
 brew bash-completion
+brew bazel
 brew bdw-gc
+brew berkeley-db
 brew bitwarden-cli
 brew boost
+brew brotli
 brew c-ares
 brew cairo
 brew cask
+brew chrome-cli
 brew circleci
 brew cmake
+brew coreutils
 brew dav1d
+brew dep
 brew direnv
 brew docbook
 brew docbook-xsl
@@ -39,6 +45,7 @@ brew fontforge
 brew freetype
 brew frei0r
 brew fribidi
+brew gcc
 brew gcsfuse
 brew gd
 brew gdbm
@@ -57,7 +64,7 @@ brew gnupg
 brew gnutls
 brew go
 brew gobject-introspection
-brew goenv
+brew golangci-lint
 brew gradle
 brew gradle-completion
 brew graphite2
@@ -73,6 +80,8 @@ brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
+brew iproute2mac
+brew isl
 brew istioctl
 brew ivy
 brew jansson
@@ -105,12 +114,15 @@ brew libheif
 brew libidn2
 brew libksba
 brew liblqr
+brew libmpc
 brew libogg
 brew libomp
 brew libpng
+brew libpthread-stubs
 brew librsvg
 brew libsamplerate
 brew libsndfile
+brew libsodium
 brew libsoxr
 brew libspiro
 brew libtasn1
@@ -125,18 +137,29 @@ brew libvidstab
 brew libvorbis
 brew libvpx
 brew libvterm
+brew libx11
+brew libxau
+brew libxcb
+brew libxdmcp
+brew libxext
+brew libxrender
 brew libyaml
 brew little-cms2
 brew lua
 brew luajit
+brew luajit-openresty
+brew luv
 brew lz4
 brew lzo
+brew m4
 brew make
 brew makedepend
 brew mas
 brew maven
 brew md5sha1sum
 brew mercurial
+brew mpdecimal
+brew mpfr
 brew msgpack
 brew mysql
 brew nasm
@@ -144,6 +167,7 @@ brew ncurses
 brew neovim
 brew netpbm
 brew nettle
+brew nghttp2
 brew node
 brew node-build
 brew nodenv
@@ -182,8 +206,6 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew ruby-build
-brew sbtenv --HEAD
-brew scalaenv --HEAD
 brew scons
 brew sdl2
 brew shared-mime-info
@@ -200,6 +222,7 @@ brew srt
 brew stern
 brew stoken
 brew subversion
+brew tcl-tk
 brew terraform
 brew terraforming
 brew tesseract
@@ -217,10 +240,13 @@ brew wget
 brew x264
 brew x265
 brew xmlto
+brew xorgproto
 brew xvid
 brew xz
 brew yamllint
 brew yq
+brew zeromq
+brew zimg
 brew zlib
 brew zookeeper
 brew zsh
@@ -240,19 +266,21 @@ cask font-source-code-pro-for-powerline
 
 tap homebrew/cask-versions
 cask adoptopenjdk8
-cask google-chrome-canary
 cask java6
 
 tap homebrew/cask
 cask 1password
+cask adobe-acrobat-reader
 cask adoptopenjdk
 cask alfred
 cask appcleaner
 cask authy
 cask bitwarden
-cask blackhole
+cask blackhole-16ch
 cask chrome-remote-desktop-host
+cask chromedriver
 cask coderunner
+cask cyberduck
 cask daisydisk
 cask docker
 cask dropbox
@@ -268,10 +296,12 @@ cask grammarly
 cask intellij-idea
 cask istat-menus
 cask iterm2
+cask karabiner-elements
 cask kindle
 cask lunar
 cask monitorcontrol
 cask mysqlworkbench
+cask ngrok
 cask osxfuse
 cask pdf-expert
 cask pritunl
@@ -289,8 +319,9 @@ cask virtualbox
 cask visual-studio-code
 cask vlc
 cask waltr
+cask whatsapp
 cask wkhtmltopdf
-cask zoomus
+cask zoom
 
 tap argon/mas
 
@@ -323,28 +354,25 @@ brew ricty --with-powerline
 
 tap weaveworks/tap
 
-# Other Homebrew packages
-brew python@2
-
 # Other Cask applications
+cask blackhole
 cask disk-sensei
 cask java
 cask java11
 cask station
 
 # App Store applications
-appstore 456624497 Brightness Slider (1.2.6)
-appstore 955297617 CodeRunner (4.0.2)
-appstore 640199958 Developer (8.3.2)
-appstore 425264550 Disk Speed Test (3.2)
+appstore 955297617 CodeRunner (4.0.3)
+appstore 640199958 Developer (9.0.1)
+appstore 425264550 Disk Speed Test (3.3)
 appstore 549083868 Display Menu (2.2.3)
 appstore 413857545 Divvy (1.5.2)
-appstore 409183694 Keynote (10.3.5)
+appstore 409183694 Keynote (11.0.1)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (6.4.0)
-appstore 409203825 Numbers (10.3.5)
-appstore 409201541 Pages (10.3.5)
+appstore 539883307 LINE (6.7.2)
+appstore 409203825 Numbers (11.0)
+appstore 409201541 Pages (11.0)
 appstore 429449079 Patterns (1.2)
-appstore 403195710 Remote Mouse (2.909)
+appstore 403195710 Remote Mouse (3.002)
 appstore 412356892 Speed-Up (2.4.2)
-appstore 497799835 Xcode (12.2)
+appstore 497799835 Xcode (12.4)

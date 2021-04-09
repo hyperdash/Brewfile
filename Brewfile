@@ -262,7 +262,7 @@ tap homebrew/bundle
 
 tap homebrew/cask-fonts
 cask font-hack-nerd-font
-cask font-source-code-pro-for-powerline
+cask font-source-code-pro
 
 tap homebrew/cask-versions
 

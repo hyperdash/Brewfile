@@ -265,11 +265,8 @@ cask font-hack-nerd-font
 cask font-source-code-pro-for-powerline
 
 tap homebrew/cask-versions
-cask adoptopenjdk8
-cask java6
 
 tap homebrew/cask
-cask 1password
 cask adobe-acrobat-reader
 cask adoptopenjdk
 cask alfred
@@ -298,13 +295,11 @@ cask istat-menus
 cask iterm2
 cask karabiner-elements
 cask kindle
-cask lunar
 cask monitorcontrol
 cask mysqlworkbench
 cask ngrok
 cask osxfuse
 cask pdf-expert
-cask pritunl
 cask r
 cask rstudio
 cask skype-for-business
@@ -358,8 +353,6 @@ tap weaveworks/tap
 cask blackhole
 cask disk-sensei
 cask java
-cask java11
-cask station
 
 # App Store applications
 appstore 955297617 CodeRunner (4.0.3)

@@ -330,7 +330,7 @@ brew k8stail
 tap garethr/kubeval
 brew kubeval
 
-tap googlecontainertools/kpt
+tap GoogleContainerTools/kpt https://github.com/GoogleContainerTools/kpt.git
 brew kpt
 
 tap grpc/grpc

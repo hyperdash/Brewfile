@@ -35,6 +35,7 @@ brew dep
 brew direnv
 brew docbook
 brew docbook-xsl
+brew docker
 brew duti
 brew eksctl
 brew emacs
@@ -46,7 +47,7 @@ brew freetype
 brew frei0r
 brew fribidi
 brew gcc
-brew gcsfuse
+brew gcc@10
 brew gd
 brew gdbm
 brew gdk-pixbuf
@@ -64,6 +65,7 @@ brew gnupg
 brew gnutls
 brew go
 brew gobject-introspection
+brew goenv
 brew golangci-lint
 brew gradle
 brew gradle-completion
@@ -80,12 +82,14 @@ brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick
+brew imath
 brew iproute2mac
 brew isl
 brew istioctl
 brew ivy
 brew jansson
 brew jasper
+brew jbig2dec
 brew jemalloc
 brew jenv
 brew jmeter
@@ -111,6 +115,7 @@ brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libheif
+brew libidn
 brew libidn2
 brew libksba
 brew liblqr
@@ -173,6 +178,7 @@ brew node-build
 brew nodenv
 brew npth
 brew oniguruma
+brew openblas
 brew opencore-amr
 brew openexr
 brew openjdk
@@ -184,17 +190,18 @@ brew p11-kit
 brew p7zip
 brew packer
 brew pango
+brew parallel
 brew pcre
 brew pcre2
 brew perl
 brew pinentry
 brew pixman
 brew pkg-config
+brew powerline-go
 brew protobuf
-brew protobuf@3.7
 brew pyenv
-brew python@3.8
 brew python@3.9
+brew r
 brew rav1e
 brew rbenv
 brew re2
@@ -206,13 +213,15 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew ruby-build
+brew sbtenv
+brew scalaenv
 brew scons
 brew sdl2
 brew shared-mime-info
 brew shfmt
 brew sipcalc
+brew six
 brew skinny
-brew slackcat
 brew snappy
 brew speex
 brew sphinx-doc
@@ -231,6 +240,7 @@ brew theora
 brew tmux
 brew trash
 brew tree
+brew tree-sitter
 brew unbound
 brew unibilium
 brew utf8proc
@@ -257,6 +267,7 @@ brew zsh-history-substring-search
 brew zsh-lovers
 brew zsh-navigation-tools
 brew zsh-syntax-highlighting
+brew zstd
 
 tap homebrew/bundle
 
@@ -270,6 +281,7 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask adoptopenjdk
 cask alfred
+cask amazon-photos
 cask appcleaner
 cask authy
 cask bitwarden
@@ -279,12 +291,14 @@ cask chromedriver
 cask coderunner
 cask cyberduck
 cask daisydisk
+cask dbeaver-community
 cask docker
 cask dropbox
 cask fantastical
 cask firefox
 cask forticlient
 cask gimp
+cask github
 cask google-backup-and-sync
 cask google-chrome
 cask google-cloud-sdk
@@ -295,13 +309,17 @@ cask istat-menus
 cask iterm2
 cask karabiner-elements
 cask kindle
+cask launchcontrol
+cask macfuse
+cask macs-fan-control
+cask microsoft-auto-update
 cask monitorcontrol
 cask mysqlworkbench
 cask ngrok
-cask osxfuse
 cask pdf-expert
-cask r
+cask pdfelement
 cask rstudio
+cask sensei
 cask skype-for-business
 cask slack
 cask sourcetree
@@ -330,7 +348,7 @@ brew k8stail
 tap garethr/kubeval
 brew kubeval
 
-tap GoogleContainerTools/kpt https://github.com/GoogleContainerTools/kpt.git
+tap googlecontainertools/kpt
 brew kpt
 
 tap grpc/grpc
@@ -349,23 +367,20 @@ brew ricty --with-powerline
 
 tap weaveworks/tap
 
-# Other Cask applications
-cask blackhole
-cask disk-sensei
-cask java
-
 # App Store applications
-appstore 955297617 CodeRunner (4.0.3)
-appstore 640199958 Developer (9.0.1)
-appstore 425264550 Disk Speed Test (3.3)
-appstore 549083868 Display Menu (2.2.3)
-appstore 413857545 Divvy (1.5.2)
-appstore 409183694 Keynote (11.0.1)
-appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (6.7.2)
-appstore 409203825 Numbers (11.0)
-appstore 409201541 Pages (11.0)
-appstore 429449079 Patterns (1.2)
-appstore 403195710 Remote Mouse (3.002)
-appstore 412356892 Speed-Up (2.4.2)
-appstore 497799835 Xcode (12.4)
+appstore 955297617   CodeRunner       (4.0.3)
+appstore 640199958   Developer        (9.0.1)
+appstore 425264550   Disk Speed Test  (3.3)
+appstore 549083868   Display Menu     (2.2.3)
+appstore 413857545   Divvy            (1.5.2)
+appstore 682658836   GarageBand       (10.4.3)
+appstore 408981434   iMovie           (10.2.3)
+appstore 409183694   Keynote          (11.0.1)
+appstore 411213048   LadioCast        (000013000)
+appstore 539883307   LINE             (6.7.2)
+appstore 409203825   Numbers          (11.0)
+appstore 409201541   Pages            (11.0)
+appstore 429449079   Patterns         (1.2)
+appstore 403195710   Remote Mouse     (3.002)
+appstore 412356892   Speed-Up         (2.4.2)
+appstore 497799835   Xcode            (12.4)

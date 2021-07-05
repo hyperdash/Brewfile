@@ -284,7 +284,6 @@ cask alfred
 cask amazon-photos
 cask appcleaner
 cask authy
-cask bitwarden
 cask blackhole-16ch
 cask chrome-remote-desktop-host
 cask chromedriver

@@ -298,9 +298,9 @@ cask firefox
 cask forticlient
 cask gimp
 cask github
-cask google-backup-and-sync
 cask google-chrome
 cask google-cloud-sdk
+cask google-drive
 cask google-japanese-ime
 cask grammarly
 cask intellij-idea
@@ -374,15 +374,15 @@ appstore 640199958   Developer       (9.2.2)
 appstore 549083868   Display Menu    (2.2.3)
 appstore 413857545   Divvy           (1.5.2)
 appstore 682658836   GarageBand      (10.4.3)
-appstore 408981434   iMovie          (10.2.4)
+appstore 408981434   iMovie          (10.2.5)
 appstore 409183694   Keynote         (11.1)
 appstore 411213048   LadioCast       (000013000)
-appstore 539883307   LINE            (7.0.2)
+appstore 539883307   LINE            (7.0.3)
 appstore 922765270   LiquidText      (1.1.9)
 appstore 409203825   Numbers         (11.1)
 appstore 409201541   Pages           (11.1)
 appstore 429449079   Patterns        (1.2)
 appstore 467103113   Relax Melodies  (6.0.1)
-appstore 403195710   Remote Mouse    (3.005)
+appstore 403195710   Remote Mouse    (3.006)
 appstore 412356892   Speed-Up        (2.4.2)
 appstore 497799835   Xcode           (12.5.1)

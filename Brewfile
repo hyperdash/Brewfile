@@ -347,9 +347,6 @@ brew k8stail
 tap garethr/kubeval
 brew kubeval
 
-tap googlecontainertools/kpt
-brew kpt
-
 tap grpc/grpc
 
 tap okteto/cli

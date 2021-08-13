@@ -47,7 +47,7 @@ brew freetype
 brew frei0r
 brew fribidi
 brew gcc
-brew gcc@10
+#brew gcc@10
 brew gd
 brew gdbm
 brew gdk-pixbuf
@@ -150,9 +150,9 @@ brew libxext
 brew libxrender
 brew libyaml
 brew little-cms2
-brew lua
-brew luajit
-brew luajit-openresty
+#brew lua
+#brew luajit
+#brew luajit-openresty
 brew luv
 brew lz4
 brew lzo
@@ -161,7 +161,7 @@ brew make
 brew makedepend
 brew mas
 brew maven
-brew md5sha1sum
+#brew md5sha1sum
 brew mercurial
 brew mpdecimal
 brew mpfr
@@ -258,7 +258,7 @@ brew yq
 brew zeromq
 brew zimg
 brew zlib
-brew zookeeper
+#brew zookeeper
 brew zsh
 brew zsh-autosuggestions
 brew zsh-completions
@@ -295,7 +295,7 @@ cask docker
 cask dropbox
 cask fantastical
 cask firefox
-cask forticlient
+#cask forticlient
 cask gimp
 cask github
 cask google-chrome

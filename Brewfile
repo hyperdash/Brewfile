@@ -47,7 +47,6 @@ brew freetype
 brew frei0r
 brew fribidi
 brew gcc
-#brew gcc@10
 brew gd
 brew gdbm
 brew gdk-pixbuf
@@ -150,9 +149,8 @@ brew libxext
 brew libxrender
 brew libyaml
 brew little-cms2
-#brew lua
-#brew luajit
-#brew luajit-openresty
+brew lua
+brew luajit-openresty
 brew luv
 brew lz4
 brew lzo
@@ -161,7 +159,6 @@ brew make
 brew makedepend
 brew mas
 brew maven
-#brew md5sha1sum
 brew mercurial
 brew mpdecimal
 brew mpfr
@@ -258,7 +255,6 @@ brew yq
 brew zeromq
 brew zimg
 brew zlib
-#brew zookeeper
 brew zsh
 brew zsh-autosuggestions
 brew zsh-completions
@@ -295,7 +291,6 @@ cask docker
 cask dropbox
 cask fantastical
 cask firefox
-#cask forticlient
 cask gimp
 cask github
 cask google-chrome
@@ -365,16 +360,16 @@ tap weaveworks/tap
 
 # App Store applications
 appstore 606957946   BitcoinMonitor  (4.0.1)
-appstore 1352778147  Bitwarden       (1.26.5)
+appstore 1352778147  Bitwarden       (1.27.1)
 appstore 955297617   CodeRunner      (4.0.3)
-appstore 640199958   Developer       (9.2.2)
+appstore 640199958   Developer       (9.2.3)
 appstore 549083868   Display Menu    (2.2.3)
 appstore 413857545   Divvy           (1.5.2)
 appstore 682658836   GarageBand      (10.4.3)
 appstore 408981434   iMovie          (10.2.5)
 appstore 409183694   Keynote         (11.1)
 appstore 411213048   LadioCast       (000013000)
-appstore 539883307   LINE            (7.0.3)
+appstore 539883307   LINE            (7.1.0)
 appstore 922765270   LiquidText      (1.1.9)
 appstore 409203825   Numbers         (11.1)
 appstore 409201541   Pages           (11.1)

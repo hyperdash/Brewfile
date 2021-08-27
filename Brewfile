@@ -255,6 +255,7 @@ brew yq
 brew zeromq
 brew zimg
 brew zlib
+brew zookeeper
 brew zsh
 brew zsh-autosuggestions
 brew zsh-completions
@@ -291,6 +292,7 @@ cask docker
 cask dropbox
 cask fantastical
 cask firefox
+cask forticlient
 cask gimp
 cask github
 cask google-chrome

@@ -24,6 +24,7 @@ brew bitwarden-cli
 brew boost
 brew brotli
 brew c-ares
+brew ca-certificates
 brew cairo
 brew cask
 brew chrome-cli
@@ -119,6 +120,7 @@ brew libidn2
 brew libksba
 brew liblqr
 brew libmpc
+brew libnghttp2
 brew libogg
 brew libomp
 brew libpng
@@ -197,6 +199,7 @@ brew pkg-config
 brew powerline-go
 brew protobuf
 brew pyenv
+brew python@3.10
 brew python@3.9
 brew r
 brew rav1e
@@ -300,6 +303,7 @@ cask google-cloud-sdk
 cask google-drive
 cask google-japanese-ime
 cask grammarly
+cask handbrake
 cask intellij-idea
 cask istat-menus
 cask iterm2
@@ -309,6 +313,7 @@ cask launchcontrol
 cask macfuse
 cask macs-fan-control
 cask microsoft-auto-update
+cask microsoft-teams
 cask monitorcontrol
 cask mysqlworkbench
 cask ngrok
@@ -346,6 +351,8 @@ brew kubeval
 
 tap grpc/grpc
 
+tap homeport/tap
+
 tap okteto/cli
 
 tap rcmdnk/file
@@ -359,6 +366,9 @@ tap sanemat/font
 brew ricty --with-powerline
 
 tap weaveworks/tap
+
+# Other Homebrew packages
+brew dyff
 
 # App Store applications
 appstore 606957946   BitcoinMonitor  (4.0.1)

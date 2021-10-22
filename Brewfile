@@ -9,6 +9,7 @@ brew ant
 brew aom
 brew apr
 brew apr-util
+brew arduino-cli
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
@@ -77,6 +78,7 @@ brew guile
 brew hadoop
 brew harfbuzz
 brew helm
+brew helm@2
 brew helmfile
 brew hub
 brew icu4c
@@ -94,6 +96,7 @@ brew jemalloc
 brew jenv
 brew jmeter
 brew jpeg
+brew jpeg-xl
 brew jq
 brew k9s
 brew kompose
@@ -140,6 +143,7 @@ brew libunistring
 brew libusb
 brew libuv
 brew libvidstab
+brew libvmaf
 brew libvorbis
 brew libvpx
 brew libvterm
@@ -208,6 +212,7 @@ brew re2
 brew readline
 brew reattach-to-user-namespace
 brew redis
+brew remarshal
 brew rename
 brew rtmpdump
 brew rubberband
@@ -283,6 +288,7 @@ cask adoptopenjdk
 cask alfred
 cask amazon-photos
 cask appcleaner
+cask arduino
 cask authy
 cask blackhole-16ch
 cask chrome-remote-desktop-host
@@ -335,6 +341,7 @@ cask vlc
 cask waltr
 cask whatsapp
 cask wkhtmltopdf
+cask xquartz
 cask zoom
 
 tap argon/mas
@@ -374,15 +381,15 @@ brew dyff
 appstore 606957946   BitcoinMonitor  (4.0.1)
 appstore 1352778147  Bitwarden       (1.28.3)
 appstore 955297617   CodeRunner      (4.0.3)
-appstore 640199958   Developer       (9.2.3)
+appstore 640199958   Developer       (9.3)
 appstore 549083868   Display Menu    (2.2.3)
 appstore 413857545   Divvy           (1.5.2)
-appstore 682658836   GarageBand      (10.4.3)
-appstore 408981434   iMovie          (10.2.5)
+appstore 682658836   GarageBand      (10.4.4)
+appstore 408981434   iMovie          (10.3)
 appstore 409183694   Keynote         (11.2)
 appstore 411213048   LadioCast       (000013000)
-appstore 539883307   LINE            (7.2.0)
-appstore 922765270   LiquidText      (2.0.9)
+appstore 539883307   LINE            (7.3.1)
+appstore 922765270   LiquidText      (2.0.12)
 appstore 409203825   Numbers         (11.2)
 appstore 409201541   Pages           (11.2)
 appstore 429449079   Patterns        (1.2)

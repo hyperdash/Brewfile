@@ -30,7 +30,9 @@ brew cairo
 brew cask
 brew chrome-cli
 brew circleci
+brew cjson
 brew cmake
+brew cmocka
 brew coreutils
 brew dav1d
 brew dep
@@ -104,6 +106,7 @@ brew krew
 brew kube-ps1
 brew kubectx
 brew kubernetes-cli
+brew kubeval
 brew kustomize
 brew lame
 brew leptonica
@@ -128,6 +131,7 @@ brew libogg
 brew libomp
 brew libpng
 brew libpthread-stubs
+brew librist
 brew librsvg
 brew libsamplerate
 brew libsndfile
@@ -165,6 +169,7 @@ brew make
 brew makedepend
 brew mas
 brew maven
+brew mbedtls
 brew mercurial
 brew mpdecimal
 brew mpfr
@@ -239,6 +244,7 @@ brew subversion
 brew tcl-tk
 brew terraform
 brew terraforming
+brew terragrunt
 brew tesseract
 brew texi2html
 brew theora
@@ -281,8 +287,10 @@ cask font-hack-nerd-font
 cask font-source-code-pro
 
 tap homebrew/cask-versions
+cask arduino-ide-beta
 
 tap homebrew/cask
+cask abyssoft-teleport
 cask adobe-acrobat-reader
 cask adoptopenjdk
 cask alfred
@@ -297,11 +305,12 @@ cask coderunner
 cask cyberduck
 cask daisydisk
 cask dbeaver-community
+cask discord
 cask docker
 cask dropbox
 cask fantastical
 cask firefox
-cask forticlient
+cask forticlient-vpn
 cask gimp
 cask github
 cask google-chrome
@@ -330,6 +339,7 @@ cask sensei
 cask skype-for-business
 cask slack
 cask sourcetree
+cask steam
 cask synergy
 cask tandem
 cask the-unarchiver
@@ -354,7 +364,6 @@ tap dtan4/dtan4
 brew k8stail
 
 tap garethr/kubeval
-brew kubeval
 
 tap grpc/grpc
 

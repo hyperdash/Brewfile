@@ -369,6 +369,8 @@ tap grpc/grpc
 
 tap homeport/tap
 
+tap instrumenta/instrumenta
+
 tap okteto/cli
 
 tap rcmdnk/file

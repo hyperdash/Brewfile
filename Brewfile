@@ -9,7 +9,6 @@ brew ant
 brew aom
 brew apr
 brew apr-util
-brew arduino-cli
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
@@ -78,9 +77,9 @@ brew grpc
 brew gts
 brew guile
 brew hadoop
+brew handbrake
 brew harfbuzz
 brew helm
-brew helm@2
 brew helmfile
 brew hub
 brew icu4c
@@ -110,14 +109,19 @@ brew kubeval
 brew kustomize
 brew lame
 brew leptonica
+brew libarchive
 brew libass
 brew libassuan
+brew libavif
+brew libb2
 brew libbluray
+brew libcbor
 brew libcroco
 brew libde265
 brew libev
 brew libevent
 brew libffi
+brew libfido2
 brew libgcrypt
 brew libgpg-error
 brew libheif
@@ -217,7 +221,6 @@ brew re2
 brew readline
 brew reattach-to-user-namespace
 brew redis
-brew remarshal
 brew rename
 brew rtmpdump
 brew rubberband
@@ -244,7 +247,6 @@ brew subversion
 brew tcl-tk
 brew terraform
 brew terraforming
-brew terragrunt
 brew tesseract
 brew texi2html
 brew theora
@@ -269,7 +271,6 @@ brew yq
 brew zeromq
 brew zimg
 brew zlib
-brew zookeeper
 brew zsh
 brew zsh-autosuggestions
 brew zsh-completions
@@ -310,7 +311,6 @@ cask docker
 cask dropbox
 cask fantastical
 cask firefox
-cask forticlient-vpn
 cask gimp
 cask github
 cask google-chrome
@@ -319,6 +319,7 @@ cask google-drive
 cask google-japanese-ime
 cask grammarly
 cask handbrake
+cask handbrakebatch
 cask intellij-idea
 cask istat-menus
 cask iterm2
@@ -340,18 +341,15 @@ cask skype-for-business
 cask slack
 cask sourcetree
 cask steam
-cask synergy
 cask tandem
 cask the-unarchiver
 cask tunnelbear
 cask tunnelblick
-cask virtualbox
 cask visual-studio-code
 cask vlc
 cask waltr
 cask whatsapp
 cask wkhtmltopdf
-cask xquartz
 cask zoom
 
 tap argon/mas
@@ -385,26 +383,29 @@ brew ricty --with-powerline
 
 tap weaveworks/tap
 
-# Other Homebrew packages
-brew dyff
+# Other Cask applications
+cask synergy
 
 # App Store applications
-appstore 1168254295  AmorphousDiskMark  (3.1)
-appstore 606957946   BitcoinMonitor     (4.0.1)
-appstore 1352778147  Bitwarden          (1.30.0)
-appstore 955297617   CodeRunner         (4.1)
-appstore 640199958   Developer          (9.3.1)
-appstore 549083868   Display Menu       (2.2.3)
-appstore 413857545   Divvy              (1.5.2)
-appstore 682658836   GarageBand         (10.4.5)
-appstore 408981434   iMovie             (10.3.1)
-appstore 409183694   Keynote            (11.2)
-appstore 411213048   LadioCast          (000013000)
-appstore 539883307   LINE               (7.5.0)
-appstore 922765270   LiquidText         (2.3.0)
-appstore 409201541   Pages              (11.2)
-appstore 429449079   Patterns           (1.2)
-appstore 467103113   Relax Melodies     (6.0.1)
-appstore 403195710   Remote Mouse       (3.011)
-appstore 412356892   Speed-Up           (2.4.2)
-appstore 497799835   Xcode              (13.2.1)
+appstore 1168254295  AmorphousDiskMark    (4.0)
+appstore 1495719766  AmorphousMemoryMark  (3.0)
+appstore 606957946   BitcoinMonitor       (4.0.1)
+appstore 1352778147  Bitwarden            (1.32.1)
+appstore 955297617   CodeRunner           (4.1)
+appstore 640199958   Developer            (9.3.1)
+appstore 425264550   Disk Speed Test      (3.3)
+appstore 549083868   Display Menu         (2.2.4)
+appstore 413857545   Divvy                (1.5.2)
+appstore 682658836   GarageBand           (10.4.6)
+appstore 408981434   iMovie               (10.3.1)
+appstore 409183694   Keynote              (11.2)
+appstore 411213048   LadioCast            (000013000)
+appstore 539883307   LINE                 (7.7.0)
+appstore 922765270   LiquidText           (2.4.4)
+appstore 409203825   Numbers              (11.2)
+appstore 409201541   Pages                (11.2)
+appstore 429449079   Patterns             (1.2)
+appstore 467103113   Relax Melodies       (6.0.1)
+appstore 403195710   Remote Mouse         (3.021)
+appstore 412356892   Speed-Up             (2.4.2)
+appstore 497799835   Xcode                (13.3)

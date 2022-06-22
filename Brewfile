@@ -9,6 +9,7 @@ brew ant
 brew aom
 brew apr
 brew apr-util
+brew arduino-cli
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
@@ -55,6 +56,7 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew gflags
+brew gh
 brew ghostscript
 brew giflib
 brew git
@@ -80,6 +82,7 @@ brew hadoop
 brew handbrake
 brew harfbuzz
 brew helm
+brew helm@2
 brew helmfile
 brew hub
 brew icu4c
@@ -135,6 +138,7 @@ brew libogg
 brew libomp
 brew libpng
 brew libpthread-stubs
+brew libraw
 brew librist
 brew librsvg
 brew libsamplerate
@@ -221,6 +225,7 @@ brew re2
 brew readline
 brew reattach-to-user-namespace
 brew redis
+brew remarshal
 brew rename
 brew rtmpdump
 brew rubberband
@@ -247,6 +252,7 @@ brew subversion
 brew tcl-tk
 brew terraform
 brew terraforming
+brew terragrunt
 brew tesseract
 brew texi2html
 brew theora
@@ -271,6 +277,7 @@ brew yq
 brew zeromq
 brew zimg
 brew zlib
+brew zookeeper
 brew zsh
 brew zsh-autosuggestions
 brew zsh-completions
@@ -320,6 +327,7 @@ cask google-japanese-ime
 cask grammarly
 cask handbrake
 cask handbrakebatch
+cask inkscape
 cask intellij-idea
 cask istat-menus
 cask iterm2
@@ -345,11 +353,13 @@ cask tandem
 cask the-unarchiver
 cask tunnelbear
 cask tunnelblick
+cask virtualbox
 cask visual-studio-code
 cask vlc
 cask waltr
 cask whatsapp
 cask wkhtmltopdf
+cask xquartz
 cask zoom
 
 tap argon/mas
@@ -383,6 +393,9 @@ brew ricty --with-powerline
 
 tap weaveworks/tap
 
+# Other Homebrew packages
+brew dyff
+
 # Other Cask applications
 cask synergy
 
@@ -390,22 +403,22 @@ cask synergy
 appstore 1168254295  AmorphousDiskMark    (4.0)
 appstore 1495719766  AmorphousMemoryMark  (3.0)
 appstore 606957946   BitcoinMonitor       (4.0.1)
-appstore 1352778147  Bitwarden            (1.32.1)
+appstore 1352778147  Bitwarden            (2022.5.1)
 appstore 955297617   CodeRunner           (4.1)
-appstore 640199958   Developer            (9.3.1)
-appstore 425264550   Disk Speed Test      (3.3)
+appstore 640199958   Developer            (10.0.4)
+appstore 425264550   Disk Speed Test      (3.4.1)
 appstore 549083868   Display Menu         (2.2.4)
 appstore 413857545   Divvy                (1.5.2)
 appstore 682658836   GarageBand           (10.4.6)
-appstore 408981434   iMovie               (10.3.1)
-appstore 409183694   Keynote              (11.2)
+appstore 408981434   iMovie               (10.3.3)
+appstore 409183694   Keynote              (12.1)
 appstore 411213048   LadioCast            (000013000)
-appstore 539883307   LINE                 (7.7.0)
-appstore 922765270   LiquidText           (2.4.4)
-appstore 409203825   Numbers              (11.2)
-appstore 409201541   Pages                (11.2)
+appstore 539883307   LINE                 (7.9.0)
+appstore 922765270   LiquidText           (2.4.5)
+appstore 409203825   Numbers              (12.1)
+appstore 409201541   Pages                (12.1)
 appstore 429449079   Patterns             (1.2)
 appstore 467103113   Relax Melodies       (6.0.1)
-appstore 403195710   Remote Mouse         (3.021)
+appstore 403195710   Remote Mouse         (3.100)
 appstore 412356892   Speed-Up             (2.4.2)
-appstore 497799835   Xcode                (13.3)
+appstore 497799835   Xcode                (13.4.1)

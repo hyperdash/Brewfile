@@ -100,6 +100,7 @@ brew jemalloc
 brew jenv
 brew jmeter
 brew jpeg
+brew jpeg-turbo
 brew jpeg-xl
 brew jq
 brew k9s
@@ -168,6 +169,7 @@ brew libxrender
 brew libyaml
 brew little-cms2
 brew lua
+brew luajit
 brew luajit-openresty
 brew luv
 brew lz4

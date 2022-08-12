@@ -82,7 +82,6 @@ brew hadoop
 brew handbrake
 brew harfbuzz
 brew helm
-brew helm@2
 brew helmfile
 brew hub
 brew icu4c
@@ -294,7 +293,6 @@ tap homebrew/bundle
 
 tap homebrew/cask-fonts
 cask font-hack-nerd-font
-cask font-source-code-pro
 
 tap homebrew/cask-versions
 cask arduino-ide-beta
@@ -346,19 +344,15 @@ cask ngrok
 cask pdf-expert
 cask pdfelement
 cask rstudio
-cask sensei
 cask skype-for-business
 cask slack
 cask sourcetree
 cask steam
-cask tandem
 cask the-unarchiver
 cask tunnelbear
 cask tunnelblick
-cask virtualbox
 cask visual-studio-code
 cask vlc
-cask waltr
 cask whatsapp
 cask wkhtmltopdf
 cask xquartz
@@ -373,13 +367,9 @@ tap derailed/k9s
 tap dtan4/dtan4
 brew k8stail
 
-tap garethr/kubeval
-
 tap grpc/grpc
 
 tap homeport/tap
-
-tap instrumenta/instrumenta
 
 tap okteto/cli
 
@@ -398,9 +388,6 @@ tap weaveworks/tap
 # Other Homebrew packages
 brew dyff
 
-# Other Cask applications
-cask synergy
-
 # App Store applications
 appstore 1168254295  AmorphousDiskMark    (4.0)
 appstore 1495719766  AmorphousMemoryMark  (3.0)
@@ -408,14 +395,14 @@ appstore 606957946   BitcoinMonitor       (4.0.1)
 appstore 1352778147  Bitwarden            (2022.5.1)
 appstore 955297617   CodeRunner           (4.1)
 appstore 640199958   Developer            (10.0.4)
-appstore 425264550   Disk Speed Test      (3.4.1)
+appstore 425264550   Disk Speed Test      (3.4.2)
 appstore 549083868   Display Menu         (2.2.4)
 appstore 413857545   Divvy                (1.5.2)
 appstore 682658836   GarageBand           (10.4.6)
-appstore 408981434   iMovie               (10.3.3)
+appstore 408981434   iMovie               (10.3.1)
 appstore 409183694   Keynote              (12.1)
 appstore 411213048   LadioCast            (000013000)
-appstore 539883307   LINE                 (7.9.0)
+appstore 539883307   LINE                 (7.10.1)
 appstore 922765270   LiquidText           (2.4.9)
 appstore 409203825   Numbers              (12.1)
 appstore 409201541   Pages                (12.1)

@@ -6,10 +6,10 @@ brew abseil
 brew adns
 brew ansible
 brew ant
+brew anyenv
 brew aom
 brew apr
 brew apr-util
-brew arduino-cli
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
@@ -34,6 +34,7 @@ brew cjson
 brew cmake
 brew cmocka
 brew coreutils
+brew curl
 brew dav1d
 brew dep
 brew direnv
@@ -69,7 +70,6 @@ brew gnupg
 brew gnutls
 brew go
 brew gobject-introspection
-brew goenv
 brew golangci-lint
 brew gradle
 brew gradle-completion
@@ -96,7 +96,6 @@ brew jansson
 brew jasper
 brew jbig2dec
 brew jemalloc
-brew jenv
 brew jmeter
 brew jpeg
 brew jpeg-turbo
@@ -107,9 +106,7 @@ brew kompose
 brew krew
 brew kube-ps1
 brew kubectx
-brew kubernetes-cli
 brew kubeval
-brew kustomize
 brew lame
 brew leptonica
 brew libarchive
@@ -146,6 +143,7 @@ brew libsndfile
 brew libsodium
 brew libsoxr
 brew libspiro
+brew libssh2
 brew libtasn1
 brew libtermkey
 brew libtiff
@@ -192,7 +190,6 @@ brew nettle
 brew nghttp2
 brew node
 brew node-build
-brew nodenv
 brew npth
 brew oniguruma
 brew openblas
@@ -201,6 +198,7 @@ brew openexr
 brew openjdk
 brew openjdk@11
 brew openjpeg
+brew openldap
 brew openssl@1.1
 brew opus
 brew p11-kit
@@ -216,12 +214,10 @@ brew pixman
 brew pkg-config
 brew powerline-go
 brew protobuf
-brew pyenv
 brew python@3.10
 brew python@3.9
 brew r
 brew rav1e
-brew rbenv
 brew re2
 brew readline
 brew reattach-to-user-namespace
@@ -232,11 +228,10 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew ruby-build
-brew sbtenv
-brew scalaenv
 brew scons
 brew sdl2
 brew shared-mime-info
+brew sheldon
 brew shfmt
 brew sipcalc
 brew six
@@ -295,7 +290,6 @@ tap homebrew/cask-fonts
 cask font-hack-nerd-font
 
 tap homebrew/cask-versions
-cask arduino-ide-beta
 
 tap homebrew/cask
 cask abyssoft-teleport
@@ -304,7 +298,6 @@ cask adoptopenjdk
 cask alfred
 cask amazon-photos
 cask appcleaner
-cask arduino
 cask authy
 cask blackhole-16ch
 cask chrome-remote-desktop-host
@@ -319,7 +312,6 @@ cask dropbox
 cask fantastical
 cask firefox
 cask gimp
-cask github
 cask google-chrome
 cask google-cloud-sdk
 cask google-drive
@@ -399,7 +391,7 @@ appstore 425264550   Disk Speed Test      (3.4.2)
 appstore 549083868   Display Menu         (2.2.4)
 appstore 413857545   Divvy                (1.5.2)
 appstore 682658836   GarageBand           (10.4.6)
-appstore 408981434   iMovie               (10.3.1)
+appstore 408981434   iMovie               (10.3.4)
 appstore 409183694   Keynote              (12.1)
 appstore 411213048   LadioCast            (000013000)
 appstore 539883307   LINE                 (7.10.1)

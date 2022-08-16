@@ -75,6 +75,7 @@ brew gradle
 brew gradle-completion
 brew graphite2
 brew graphviz
+brew grep
 brew grpc
 brew gts
 brew guile

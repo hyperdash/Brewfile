@@ -107,6 +107,7 @@ brew kompose
 brew krew
 brew kube-ps1
 brew kubectx
+brew kubernetes-cli
 brew kubeval
 brew lame
 brew leptonica
@@ -360,9 +361,13 @@ tap derailed/k9s
 tap dtan4/dtan4
 brew k8stail
 
+tap garethr/kubeval
+
 tap grpc/grpc
 
 tap homeport/tap
+
+tap instrumenta/instrumenta
 
 tap okteto/cli
 
@@ -385,7 +390,7 @@ brew dyff
 appstore 1168254295  AmorphousDiskMark    (4.0)
 appstore 1495719766  AmorphousMemoryMark  (3.0)
 appstore 606957946   BitcoinMonitor       (4.0.1)
-appstore 1352778147  Bitwarden            (2022.5.1)
+appstore 1352778147  Bitwarden            (2022.8.1)
 appstore 955297617   CodeRunner           (4.1)
 appstore 640199958   Developer            (10.0.4)
 appstore 425264550   Disk Speed Test      (3.4.2)
@@ -395,7 +400,7 @@ appstore 682658836   GarageBand           (10.4.6)
 appstore 408981434   iMovie               (10.3.4)
 appstore 409183694   Keynote              (12.1)
 appstore 411213048   LadioCast            (000013000)
-appstore 539883307   LINE                 (7.10.1)
+appstore 539883307   LINE                 (7.10.2)
 appstore 922765270   LiquidText           (2.4.9)
 appstore 409203825   Numbers              (12.1)
 appstore 409201541   Pages                (12.1)

@@ -190,6 +190,7 @@ brew mysql
 brew nasm
 brew ncurses
 brew neovim
+brew netcat
 brew netpbm
 brew nettle
 brew nghttp2
@@ -320,7 +321,7 @@ cask docker
 cask dropbox
 cask fantastical
 cask firefox
-cask forticlient
+cask forticlient-vpn
 cask gimp
 cask google-chrome
 cask google-cloud-sdk
@@ -398,7 +399,7 @@ brew dyff
 appstore 1168254295  AmorphousDiskMark    (4.0)
 appstore 1495719766  AmorphousMemoryMark  (3.0)
 appstore 606957946   BitcoinMonitor       (4.0.1)
-appstore 1352778147  Bitwarden            (2022.10.0)
+appstore 1352778147  Bitwarden            (2022.10.1)
 appstore 955297617   CodeRunner           (4.1)
 appstore 640199958   Developer            (10.1.3)
 appstore 425264550   Disk Speed Test      (3.4.2)

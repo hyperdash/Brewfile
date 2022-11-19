@@ -224,6 +224,7 @@ brew powerline-go
 brew protobuf
 brew pygments
 brew python@3.10
+brew python@3.11
 brew python@3.9
 brew pyyaml
 brew r
@@ -269,6 +270,7 @@ brew tree-sitter
 brew unbound
 brew unibilium
 brew utf8proc
+brew util-macros
 brew vim
 brew webp
 brew wget
@@ -383,6 +385,9 @@ tap okteto/cli
 tap rcmdnk/file
 brew brew-file
 
+tap robscott/tap
+brew kube-capacity
+
 tap rs/tap
 brew jaggr
 brew jplot
@@ -405,16 +410,16 @@ appstore 640199958   Developer            (10.1.3)
 appstore 425264550   Disk Speed Test      (3.4.2)
 appstore 549083868   Display Menu         (2.2.4)
 appstore 413857545   Divvy                (1.5.2)
-appstore 682658836   GarageBand           (10.4.6)
+appstore 682658836   GarageBand           (10.4.7)
 appstore 408981434   iMovie               (10.3.5)
-appstore 409183694   Keynote              (12.1)
+appstore 409183694   Keynote              (12.2)
 appstore 411213048   LadioCast            (000013000)
-appstore 539883307   LINE                 (7.12.1)
-appstore 922765270   LiquidText           (2.5.4)
-appstore 409203825   Numbers              (12.1)
-appstore 409201541   Pages                (12.1)
+appstore 539883307   LINE                 (7.13.2)
+appstore 922765270   LiquidText           (2.5.7)
+appstore 409203825   Numbers              (12.2)
+appstore 409201541   Pages                (12.2)
 appstore 429449079   Patterns             (1.2)
 appstore 467103113   Relax Melodies       (6.0.1)
 appstore 403195710   Remote Mouse         (3.202)
 appstore 412356892   Speed-Up             (2.4.2)
-appstore 497799835   Xcode                (14.0.1)
+appstore 497799835   Xcode                (14.1)

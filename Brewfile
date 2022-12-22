@@ -153,6 +153,7 @@ brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
+brew libunibreak
 brew libuninameslist
 brew libunistring
 brew libusb
@@ -303,6 +304,7 @@ tap homebrew/cask-fonts
 cask font-hack-nerd-font
 
 tap homebrew/cask-versions
+cask adoptopenjdk8
 
 tap homebrew/cask
 cask abyssoft-teleport

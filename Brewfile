@@ -66,6 +66,7 @@ brew git
 brew git-flow
 brew glib
 brew glide
+brew glow
 brew gmp
 brew gnu-getopt
 brew gnupg
@@ -276,6 +277,7 @@ brew util-macros
 brew vim
 brew webp
 brew wget
+brew woff2
 brew x264
 brew x265
 brew xmlto
@@ -418,7 +420,7 @@ appstore 408981434   iMovie               (10.3.5)
 appstore 409183694   Keynote              (12.2.1)
 appstore 411213048   LadioCast            (000013000)
 appstore 539883307   LINE                 (7.14.1)
-appstore 922765270   LiquidText           (2.5.9)
+appstore 922765270   LiquidText           (2.5.10)
 appstore 409203825   Numbers              (12.2.1)
 appstore 409201541   Pages                (12.2.1)
 appstore 429449079   Patterns             (1.2)

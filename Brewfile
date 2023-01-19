@@ -10,6 +10,7 @@ brew anyenv
 brew aom
 brew apr
 brew apr-util
+brew aribb24
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
@@ -259,6 +260,7 @@ brew srt
 brew stern
 brew stoken
 brew subversion
+brew svt-av1
 brew tcl-tk
 brew terraform
 brew terraforming
@@ -420,7 +422,7 @@ appstore 408981434   iMovie               (10.3.5)
 appstore 409183694   Keynote              (12.2.1)
 appstore 411213048   LadioCast            (000013000)
 appstore 539883307   LINE                 (7.14.1)
-appstore 922765270   LiquidText           (2.5.10)
+appstore 922765270   LiquidText           (2.5.11)
 appstore 409203825   Numbers              (12.2.1)
 appstore 409201541   Pages                (12.2.1)
 appstore 429449079   Patterns             (1.2)

@@ -327,6 +327,7 @@ cask daisydisk
 cask dbeaver-community
 cask discord
 cask docker
+cask dozer
 cask dropbox
 cask fantastical
 cask firefox
@@ -412,21 +413,21 @@ brew dyff
 appstore 1168254295  AmorphousDiskMark    (4.0)
 appstore 1495719766  AmorphousMemoryMark  (3.0)
 appstore 606957946   BitcoinMonitor       (4.0.1)
-appstore 1352778147  Bitwarden            (2023.1.1)
+appstore 1352778147  Bitwarden            (2023.2.0)
 appstore 955297617   CodeRunner           (4.2)
-appstore 640199958   Developer            (10.2)
+appstore 640199958   Developer            (10.3)
 appstore 425264550   Disk Speed Test      (3.4.2)
 appstore 549083868   Display Menu         (2.2.4)
 appstore 413857545   Divvy                (1.5.2)
-appstore 682658836   GarageBand           (10.4.7)
+appstore 682658836   GarageBand           (10.4.8)
 appstore 408981434   iMovie               (10.3.5)
 appstore 409183694   Keynote              (12.2.1)
 appstore 411213048   LadioCast            (000013000)
 appstore 539883307   LINE                 (7.15.0)
-appstore 922765270   LiquidText           (2.5.14)
+appstore 922765270   LiquidText           (2.5.15)
 appstore 409203825   Numbers              (12.2.1)
 appstore 409201541   Pages                (12.2.1)
-appstore 429449079   Patterns             (1.2)
+appstore 429449079   Patterns             (1.3)
 appstore 467103113   Relax Melodies       (6.0.1)
 appstore 403195710   Remote Mouse         (3.300)
 appstore 412356892   Speed-Up             (2.4.2)

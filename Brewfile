@@ -114,6 +114,7 @@ brew kube-ps1
 brew kubectx
 brew kubernetes-cli
 brew kubeval
+brew kustomize
 brew lame
 brew leptonica
 brew libarchive

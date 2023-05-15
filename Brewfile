@@ -112,7 +112,6 @@ brew kompose
 brew krew
 brew kube-ps1
 brew kubectx
-brew kubernetes-cli
 brew kubeval
 brew kustomize
 brew lame

@@ -130,6 +130,7 @@ brew libevent
 brew libffi
 brew libfido2
 brew libgcrypt
+brew libgit2
 brew libgpg-error
 brew libheif
 brew libidn
@@ -418,11 +419,11 @@ appstore 606957946 BitcoinMonitor (4.0.1)
 appstore 1352778147 Bitwarden (2023.4.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 955297617 CodeRunner (4.2)
-appstore 640199958 Developer (10.3.1)
+appstore 640199958 Developer (10.4.1)
 appstore 549083868 Display Menu (2.2.4)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.8)
-appstore 408981434 iMovie (10.3.5)
+appstore 408981434 iMovie (10.3.6)
 appstore 409183694 Keynote (13.0)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (7.17.0)
@@ -433,4 +434,4 @@ appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
 appstore 403195710 Remote Mouse (3.302)
 appstore 412356892 Speed-Up (2.4.2)
-appstore 497799835 Xcode (14.3)
+appstore 497799835 Xcode (14.3.1)

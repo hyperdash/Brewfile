@@ -29,6 +29,7 @@ brew c-ares
 brew ca-certificates
 brew cairo
 brew cask
+brew cffi
 brew chrome-cli
 brew circleci
 brew cjson
@@ -43,6 +44,7 @@ brew direnv
 brew docbook
 brew docbook-xsl
 brew docker
+brew docker-completion
 brew docutils
 brew duti
 brew eksctl
@@ -226,7 +228,9 @@ brew pinentry
 brew pixman
 brew pkg-config
 brew powerline-go
+brew protobuf
 brew protobuf@21
+brew pycparser
 brew pygments
 brew python@3.10
 brew python@3.11
@@ -324,7 +328,6 @@ cask dozer
 cask dropbox
 cask fantastical
 cask firefox
-cask forticlient-vpn
 cask gimp
 cask google-chrome
 cask google-cloud-sdk
@@ -408,9 +411,8 @@ brew ricty --with-powerline
 
 tap weaveworks/tap
 
-# Other Homebrew packages
-brew cffi
-brew pycparser
+# Other Cask applications
+cask forticlient-vpn
 
 # App Store applications
 appstore 1168254295 AmorphousDiskMark (4.0)

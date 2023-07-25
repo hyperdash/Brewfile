@@ -114,6 +114,7 @@ brew kompose
 brew krew
 brew kube-ps1
 brew kubectx
+brew kubernetes-cli
 brew kubeval
 brew kustomize
 brew lame
@@ -415,23 +416,23 @@ tap weaveworks/tap
 cask forticlient-vpn
 
 # App Store applications
-appstore 1168254295 AmorphousDiskMark (4.0)
+appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
 appstore 606957946 BitcoinMonitor (4.0.1)
-appstore 1352778147 Bitwarden (2023.5.0)
+appstore 1352778147 Bitwarden (2023.7.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 955297617 CodeRunner (4.2)
 appstore 640199958 Developer (10.4.1)
 appstore 549083868 Display Menu (2.2.4)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.8)
-appstore 408981434 iMovie (10.3.6)
-appstore 409183694 Keynote (13.0)
+appstore 408981434 iMovie (10.3.7)
+appstore 409183694 Keynote (13.1)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (7.17.0)
-appstore 922765270 LiquidText (2.7.6)
-appstore 409203825 Numbers (13.0)
-appstore 409201541 Pages (13.0)
+appstore 539883307 LINE (8.0.0)
+appstore 922765270 LiquidText (2.8.4)
+appstore 409203825 Numbers (13.1)
+appstore 409201541 Pages (13.1)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
 appstore 403195710 Remote Mouse (3.302)

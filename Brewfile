@@ -109,6 +109,7 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
+brew jsoncpp
 brew k9s
 brew kompose
 brew krew
@@ -233,6 +234,11 @@ brew protobuf
 brew protobuf@21
 brew pycparser
 brew pygments
+brew python-certifi
+brew python-cryptography
+brew python-lxml
+brew python-markupsafe
+brew python-packaging
 brew python@3.10
 brew python@3.11
 brew python@3.9
@@ -426,11 +432,11 @@ appstore 640199958 Developer (10.4.1)
 appstore 549083868 Display Menu (2.2.4)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.8)
-appstore 408981434 iMovie (10.3.7)
+appstore 408981434 iMovie (10.3.8)
 appstore 409183694 Keynote (13.1)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (8.0.0)
-appstore 922765270 LiquidText (2.8.4)
+appstore 539883307 LINE (8.2.0)
+appstore 922765270 LiquidText (2.8.5)
 appstore 409203825 Numbers (13.1)
 appstore 409201541 Pages (13.1)
 appstore 429449079 Patterns (1.3)

@@ -135,6 +135,7 @@ brew libffi
 brew libfido2
 brew libgcrypt
 brew libgit2
+brew libgit2@1.6
 brew libgpg-error
 brew libheif
 brew libidn
@@ -425,18 +426,18 @@ cask forticlient-vpn
 appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
 appstore 606957946 BitcoinMonitor (4.0.1)
-appstore 1352778147 Bitwarden (2023.7.0)
+appstore 1352778147 Bitwarden (2023.8.2)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 955297617 CodeRunner (4.2)
 appstore 640199958 Developer (10.4.1)
-appstore 549083868 Display Menu (2.2.4)
+appstore 549083868 Display Menu (2.2.5)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.8)
 appstore 408981434 iMovie (10.3.8)
 appstore 409183694 Keynote (13.1)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (8.2.0)
-appstore 922765270 LiquidText (2.8.5)
+appstore 922765270 LiquidText (2.8.10)
 appstore 409203825 Numbers (13.1)
 appstore 409201541 Pages (13.1)
 appstore 429449079 Patterns (1.3)

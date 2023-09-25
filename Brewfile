@@ -317,7 +317,6 @@ brew zsh-syntax-highlighting
 brew zstd
 
 tap homebrew/cask
-cask abyssoft-teleport
 cask adobe-acrobat-reader
 cask adoptopenjdk
 cask alfred
@@ -435,11 +434,11 @@ appstore 549083868 Display Menu (2.2.5)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.8)
 appstore 408981434 iMovie (10.3.8)
-appstore 409183694 Keynote (13.1)
+appstore 409183694 Keynote (13.2)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (8.2.0)
+appstore 539883307 LINE (8.3.0)
 appstore 922765270 LiquidText (2.8.10)
-appstore 409203825 Numbers (13.1)
+appstore 409203825 Numbers (13.2)
 appstore 409201541 Pages (13.1)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)

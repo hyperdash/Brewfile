@@ -370,7 +370,6 @@ cask tunnelbear
 cask tunnelblick
 cask visual-studio-code
 cask vlc
-cask webtorrent
 cask whatsapp
 cask wkhtmltopdf
 cask xquartz

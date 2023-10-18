@@ -241,6 +241,7 @@ brew python-lxml
 brew python-markupsafe
 brew python-packaging
 brew python-pytz
+brew python-setuptools
 brew python@3.10
 brew python@3.11
 brew python@3.9

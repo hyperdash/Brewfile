@@ -242,8 +242,10 @@ brew python-markupsafe
 brew python-packaging
 brew python-pytz
 brew python-setuptools
+brew python-tabulate
 brew python@3.10
 brew python@3.11
+brew python@3.12
 brew python@3.9
 brew pyyaml
 brew r

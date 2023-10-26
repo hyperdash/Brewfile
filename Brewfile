@@ -333,6 +333,7 @@ cask coderunner
 cask cyberduck
 cask daisydisk
 cask dbeaver-community
+cask deepl
 cask discord
 cask docker
 cask dozer

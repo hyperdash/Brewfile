@@ -429,7 +429,7 @@ cask forticlient-vpn
 appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
 appstore 606957946 BitcoinMonitor (4.0.1)
-appstore 1352778147 Bitwarden (2023.9.3)
+appstore 1352778147 Bitwarden (2023.10.1)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 955297617 CodeRunner (4.2)
 appstore 640199958 Developer (10.4.1)

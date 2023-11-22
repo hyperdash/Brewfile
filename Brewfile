@@ -237,9 +237,12 @@ brew pycparser
 brew pygments
 brew python-certifi
 brew python-cryptography
+brew python-dateutil
+brew python-jinja
 brew python-lxml
 brew python-markupsafe
 brew python-packaging
+brew python-pyparsing
 brew python-pytz
 brew python-setuptools
 brew python-tabulate

@@ -142,6 +142,7 @@ brew libidn
 brew libidn2
 brew libksba
 brew liblqr
+brew libmicrohttpd
 brew libmpc
 brew libnghttp2
 brew libogg

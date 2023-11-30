@@ -331,6 +331,7 @@ cask amazon-photos
 cask appcleaner
 cask authy
 cask blackhole-16ch
+cask choosy
 cask chrome-remote-desktop-host
 cask chromedriver
 cask coderunner
@@ -390,6 +391,7 @@ cask font-hack-nerd-font
 
 tap homebrew/cask-versions
 cask adoptopenjdk8
+cask google-chrome-canary
 
 tap argon/mas
 

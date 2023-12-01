@@ -391,7 +391,6 @@ cask font-hack-nerd-font
 
 tap homebrew/cask-versions
 cask adoptopenjdk8
-cask google-chrome-canary
 
 tap argon/mas
 

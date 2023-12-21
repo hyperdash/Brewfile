@@ -39,7 +39,6 @@ brew colordiff
 brew coreutils
 brew curl
 brew dav1d
-brew dep
 brew direnv
 brew docbook
 brew docbook-xsl
@@ -426,6 +425,9 @@ tap sanemat/font
 brew ricty --with-powerline
 
 tap weaveworks/tap
+
+# Other Homebrew packages
+brew dep
 
 # Other Cask applications
 cask forticlient-vpn

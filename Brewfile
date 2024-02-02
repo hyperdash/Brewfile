@@ -92,6 +92,7 @@ brew helm
 brew helmfile
 brew highway
 brew hub
+brew hwloc
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -157,6 +158,7 @@ brew libsndfile
 brew libsodium
 brew libsoxr
 brew libspiro
+brew libssh
 brew libssh2
 brew libtasn1
 brew libtermkey
@@ -208,6 +210,7 @@ brew nghttp2
 brew node
 brew node-build
 brew npth
+brew numpy
 brew oniguruma
 brew openblas
 brew opencore-amr
@@ -219,6 +222,7 @@ brew openjpeg
 brew openldap
 brew openssl@1.1
 brew openssl@3
+brew openvino
 brew opus
 brew p11-kit
 brew p7zip
@@ -234,8 +238,10 @@ brew pkg-config
 brew powerline-go
 brew protobuf
 brew protobuf@21
+brew pugixml
 brew pycparser
 brew pygments
+brew python-argcomplete
 brew python-certifi
 brew python-cryptography
 brew python-dateutil
@@ -282,6 +288,7 @@ brew stern
 brew stoken
 brew subversion
 brew svt-av1
+brew tbb
 brew tcl-tk
 brew terraform
 brew terraforming

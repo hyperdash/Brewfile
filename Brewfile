@@ -369,7 +369,6 @@ cask karabiner-elements
 cask kindle
 cask launchcontrol
 cask macfuse
-cask macs-fan-control
 cask microsoft-auto-update
 cask microsoft-teams
 cask monitorcontrol
@@ -381,7 +380,6 @@ cask rstudio
 cask skype-for-business
 cask slack
 cask sourcetree
-cask steam
 cask the-unarchiver
 cask tunnelbear
 cask tunnelblick
@@ -389,7 +387,6 @@ cask visual-studio-code
 cask vlc
 cask whatsapp
 cask wkhtmltopdf
-cask xquartz
 cask zoom
 
 tap homebrew/bundle
@@ -442,20 +439,29 @@ brew dep
 cask forticlient-vpn
 
 # App Store applications
-appstore 1352778147 Bitwarden (2023.12.1)
+appstore 1168254295 AmorphousDiskMark (4.0.1)
+appstore 1495719766 AmorphousMemoryMark (3.0)
+appstore 606957946 BitcoinMonitor (4.0.1)
+appstore 1352778147 Bitwarden (2024.2.0)
+appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 955297617 CodeRunner (4.3)
 appstore 6449748961 DeathStranding (1.1.0)
 appstore 640199958 Developer (10.5)
+appstore 1380563956 Dictionaries (1.2.49)
 appstore 549083868 Display Menu (2.2.5)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.10)
 appstore 408981434 iMovie (10.4)
 appstore 409183694 Keynote (13.2)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (8.5.3)
-appstore 922765270 LiquidText (2.10.7)
+appstore 539883307 LINE (8.6.0)
+appstore 922765270 LiquidText (2.10.9)
+appstore 1632993345 Noise Alerts (1.0.3)
 appstore 409203825 Numbers (13.2)
 appstore 409201541 Pages (13.2)
 appstore 429449079 Patterns (1.3)
-appstore 310633997 WhatsApp (24.2.75)
+appstore 467103113 Relax Melodies (6.0.1)
+appstore 403195710 Remote Mouse (3.302)
+appstore 412356892 Speed-Up (2.4.2)
+appstore 310633997 WhatsApp (24.3.78)
 appstore 497799835 Xcode (15.2)

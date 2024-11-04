@@ -43,12 +43,10 @@ brew dav1d
 brew direnv
 brew docbook
 brew docbook-xsl
-brew docker
-brew docker-completion
-brew docutils
 brew duti
 brew eksctl
 brew emacs
+brew eza
 brew ffmpeg
 brew flac
 brew fontconfig
@@ -67,6 +65,7 @@ brew ghostscript
 brew giflib
 brew git
 brew git-flow
+brew glasskube
 brew glib
 brew glide
 brew glow
@@ -92,8 +91,7 @@ brew helm
 brew helmfile
 brew highway
 brew hub
-brew hwloc
-brew icu4c
+brew icu4c@75
 brew ilmbase
 brew imagemagick
 brew imath
@@ -110,14 +108,12 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
-brew jsoncpp
 brew k9s
 brew kompose
 brew krew
 brew kube-ps1
 brew kubectx
 brew kubernetes-cli
-brew kubeval
 brew kustomize
 brew lame
 brew leptonica
@@ -130,13 +126,14 @@ brew libbluray
 brew libcbor
 brew libcroco
 brew libde265
+brew libdeflate
 brew libev
 brew libevent
 brew libffi
 brew libfido2
 brew libgcrypt
 brew libgit2
-brew libgit2@1.6
+brew libgit2@1.7
 brew libgpg-error
 brew libheif
 brew libidn
@@ -182,6 +179,7 @@ brew libxext
 brew libxrender
 brew libyaml
 brew little-cms2
+brew lpeg
 brew lua
 brew luajit
 brew luajit-openresty
@@ -210,19 +208,16 @@ brew nghttp2
 brew node
 brew node-build
 brew npth
-brew numpy
 brew oniguruma
 brew openblas
 brew opencore-amr
 brew openexr
 brew openjdk
 brew openjdk@11
-brew openjdk@17
+brew openjdk@21
 brew openjpeg
-brew openldap
-brew openssl@1.1
 brew openssl@3
-brew openvino
+brew operator-sdk
 brew opus
 brew p11-kit
 brew p7zip
@@ -237,26 +232,12 @@ brew pixman
 brew pkg-config
 brew powerline-go
 brew protobuf
-brew protobuf@21
-brew pugixml
 brew pycparser
-brew pygments
-brew python-argcomplete
-brew python-certifi
-brew python-cryptography
-brew python-dateutil
-brew python-jinja
-brew python-lxml
-brew python-markupsafe
 brew python-packaging
-brew python-pathspec
-brew python-pyparsing
-brew python-pytz
-brew python-setuptools
-brew python-tabulate
 brew python@3.10
 brew python@3.11
 brew python@3.12
+brew python@3.13
 brew python@3.9
 brew pyyaml
 brew r
@@ -289,10 +270,8 @@ brew stern
 brew stoken
 brew subversion
 brew svt-av1
-brew tbb
 brew tcl-tk
 brew terraform
-brew terraforming
 brew terragrunt
 brew tesseract
 brew texi2html
@@ -306,6 +285,7 @@ brew unibilium
 brew utf8proc
 brew util-macros
 brew vim
+brew watch
 brew webp
 brew wget
 brew woff2
@@ -339,7 +319,8 @@ cask amazon-photos
 cask appcleaner
 cask authy
 cask blackhole-16ch
-cask choosy
+cask burp-suite
+cask chatgpt
 cask chrome-remote-desktop-host
 cask chromedriver
 cask coderunner
@@ -353,6 +334,7 @@ cask dozer
 cask dropbox
 cask fantastical
 cask firefox
+cask font-hack-nerd-font
 cask gimp
 cask google-chrome
 cask google-cloud-sdk
@@ -383,6 +365,7 @@ cask sourcetree
 cask the-unarchiver
 cask tunnelbear
 cask tunnelblick
+cask utm
 cask visual-studio-code
 cask vlc
 cask whatsapp
@@ -392,10 +375,8 @@ cask zoom
 tap homebrew/bundle
 
 tap homebrew/cask-fonts
-cask font-hack-nerd-font
 
 tap homebrew/cask-versions
-cask adoptopenjdk8
 
 tap argon/mas
 
@@ -407,6 +388,8 @@ tap dtan4/dtan4
 brew k8stail
 
 tap garethr/kubeval
+
+tap glasskube/tap
 
 tap grpc/grpc
 
@@ -434,34 +417,45 @@ tap weaveworks/tap
 
 # Other Homebrew packages
 brew dep
+brew icu4c
+brew python-certifi
+brew python-cryptography
+brew python-dateutil
+brew python-jinja
+brew python-markupsafe
+brew python-pathspec
+brew python-pyparsing
+brew terraforming
 
 # Other Cask applications
+cask adoptopenjdk8
 cask forticlient-vpn
 
 # App Store applications
 appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
 appstore 606957946 BitcoinMonitor (4.0.1)
-appstore 1352778147 Bitwarden (2024.2.0)
+appstore 1352778147 Bitwarden (2024.10.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 955297617 CodeRunner (4.3)
-appstore 6449748961 DeathStranding (1.1.0)
-appstore 640199958 Developer (10.5)
-appstore 1380563956 Dictionaries (1.2.49)
+appstore 6449748961 DeathStranding (1.1.3)
+appstore 640199958 Developer (10.6.7)
+appstore 1380563956 Dictionaries (1.2.56)
 appstore 549083868 Display Menu (2.2.5)
 appstore 413857545 Divvy (1.5.2)
-appstore 682658836 GarageBand (10.4.10)
-appstore 408981434 iMovie (10.4)
-appstore 409183694 Keynote (13.2)
+appstore 682658836 GarageBand (10.4.11)
+appstore 408981434 iMovie (10.4.2)
+appstore 409183694 Keynote (14.2)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (8.6.0)
-appstore 922765270 LiquidText (2.10.9)
+appstore 539883307 LINE (9.4.1)
+appstore 922765270 LiquidText (2.10.27)
 appstore 1632993345 Noise Alerts (1.0.3)
-appstore 409203825 Numbers (13.2)
-appstore 409201541 Pages (13.2)
+appstore 409203825 Numbers (14.2)
+appstore 409201541 Pages (14.2)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
 appstore 403195710 Remote Mouse (3.302)
 appstore 412356892 Speed-Up (2.4.2)
-appstore 310633997 WhatsApp (24.3.78)
-appstore 497799835 Xcode (15.2)
+appstore 1437809329 Surfshark (4.15.2)
+appstore 310633997 WhatsApp (24.19.80)
+appstore 497799835 Xcode (16.1)

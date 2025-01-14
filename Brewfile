@@ -38,7 +38,6 @@ brew cmake
 brew cmocka
 brew colordiff
 brew coreutils
-brew curl
 brew dav1d
 brew direnv
 brew docbook
@@ -134,6 +133,7 @@ brew libfido2
 brew libgcrypt
 brew libgit2
 brew libgit2@1.7
+brew libgit2@1.8
 brew libgpg-error
 brew libheif
 brew libidn
@@ -160,6 +160,7 @@ brew libssh2
 brew libtasn1
 brew libtermkey
 brew libtiff
+brew libtommath
 brew libtool
 brew libunibreak
 brew libuninameslist
@@ -229,7 +230,6 @@ brew pcre2
 brew perl
 brew pinentry
 brew pixman
-brew pkg-config
 brew powerline-go
 brew protobuf
 brew pycparser
@@ -271,6 +271,7 @@ brew stoken
 brew subversion
 brew svt-av1
 brew tcl-tk
+brew tcl-tk@8
 brew terraform
 brew terragrunt
 brew tesseract
@@ -418,6 +419,7 @@ tap weaveworks/tap
 # Other Homebrew packages
 brew dep
 brew icu4c
+brew pkg-config
 brew python-certifi
 brew python-cryptography
 brew python-dateutil
@@ -435,27 +437,27 @@ cask forticlient-vpn
 appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
 appstore 606957946 BitcoinMonitor (4.0.1)
-appstore 1352778147 Bitwarden (2024.10.0)
+appstore 1352778147 Bitwarden (2024.11.2)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
-appstore 955297617 CodeRunner (4.3)
-appstore 6449748961 DeathStranding (1.1.3)
-appstore 640199958 Developer (10.6.7)
-appstore 1380563956 Dictionaries (1.2.56)
+appstore 955297617 CodeRunner (4.4)
+appstore 6449748961 DeathStranding (1.1.4)
+appstore 640199958 Developer (10.7)
+appstore 1380563956 Dictionaries (1.2.58)
 appstore 549083868 Display Menu (2.2.5)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.11)
 appstore 408981434 iMovie (10.4.2)
-appstore 409183694 Keynote (14.2)
+appstore 409183694 Keynote (14.3)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (9.4.1)
-appstore 922765270 LiquidText (2.10.27)
+appstore 539883307 LINE (9.5.0)
+appstore 922765270 LiquidText (2.10.29)
 appstore 1632993345 Noise Alerts (1.0.3)
-appstore 409203825 Numbers (14.2)
-appstore 409201541 Pages (14.2)
+appstore 409203825 Numbers (14.3)
+appstore 409201541 Pages (14.3)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
 appstore 403195710 Remote Mouse (3.302)
 appstore 412356892 Speed-Up (2.4.2)
-appstore 1437809329 Surfshark (4.15.2)
-appstore 310633997 WhatsApp (24.19.80)
-appstore 497799835 Xcode (16.1)
+appstore 1437809329 Surfshark (4.16.0)
+appstore 310633997 WhatsApp (24.24.83)
+appstore 497799835 Xcode (16.2)

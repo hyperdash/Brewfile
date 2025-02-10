@@ -38,6 +38,7 @@ brew cmake
 brew cmocka
 brew colordiff
 brew coreutils
+brew curl
 brew dav1d
 brew direnv
 brew docbook
@@ -66,7 +67,6 @@ brew git
 brew git-flow
 brew glasskube
 brew glib
-brew glide
 brew glow
 brew gmp
 brew gnu-getopt
@@ -91,7 +91,6 @@ brew helmfile
 brew highway
 brew hub
 brew icu4c@75
-brew ilmbase
 brew imagemagick
 brew imath
 brew iproute2mac
@@ -133,7 +132,6 @@ brew libfido2
 brew libgcrypt
 brew libgit2
 brew libgit2@1.7
-brew libgit2@1.8
 brew libgpg-error
 brew libheif
 brew libidn
@@ -418,7 +416,9 @@ tap weaveworks/tap
 
 # Other Homebrew packages
 brew dep
+brew glide
 brew icu4c
+brew ilmbase
 brew pkg-config
 brew python-certifi
 brew python-cryptography

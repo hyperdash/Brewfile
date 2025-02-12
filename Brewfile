@@ -38,7 +38,6 @@ brew cmake
 brew cmocka
 brew colordiff
 brew coreutils
-brew curl
 brew dav1d
 brew direnv
 brew docbook
@@ -46,6 +45,7 @@ brew docbook-xsl
 brew duti
 brew eksctl
 brew emacs
+brew expat
 brew eza
 brew ffmpeg
 brew flac
@@ -132,6 +132,7 @@ brew libfido2
 brew libgcrypt
 brew libgit2
 brew libgit2@1.7
+brew libgit2@1.8
 brew libgpg-error
 brew libheif
 brew libidn

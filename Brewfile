@@ -38,7 +38,6 @@ brew cmake
 brew cmocka
 brew colordiff
 brew coreutils
-brew curl
 brew dav1d
 brew direnv
 brew docbook
@@ -46,6 +45,7 @@ brew docbook-xsl
 brew duti
 brew eksctl
 brew emacs
+brew expat
 brew eza
 brew ffmpeg
 brew flac
@@ -132,6 +132,7 @@ brew libfido2
 brew libgcrypt
 brew libgit2
 brew libgit2@1.7
+brew libgit2@1.8
 brew libgpg-error
 brew libheif
 brew libidn
@@ -446,7 +447,7 @@ appstore 1380563956 Dictionaries (1.2.61)
 appstore 549083868 Display Menu (2.2.5)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.12)
-appstore 408981434 iMovie (10.4.2)
+appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.3)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (9.5.0)

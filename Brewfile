@@ -38,11 +38,13 @@ brew cmake
 brew cmocka
 brew colordiff
 brew coreutils
+brew d2
 brew dav1d
 brew direnv
 brew docbook
 brew docbook-xsl
 brew duti
+brew dyff
 brew eksctl
 brew emacs
 brew expat
@@ -90,7 +92,7 @@ brew helm
 brew helmfile
 brew highway
 brew hub
-brew icu4c@75
+brew icu4c@76
 brew imagemagick
 brew imath
 brew iproute2mac
@@ -231,6 +233,7 @@ brew pinentry
 brew pixman
 brew powerline-go
 brew protobuf
+brew protobuf@29
 brew pycparser
 brew python-packaging
 brew python@3.10
@@ -238,7 +241,6 @@ brew python@3.11
 brew python@3.12
 brew python@3.13
 brew python@3.9
-brew pyyaml
 brew r
 brew rav1e
 brew re2
@@ -319,6 +321,7 @@ cask amazon-photos
 cask appcleaner
 cask authy
 cask blackhole-16ch
+cask brave-browser
 cask burp-suite
 cask chatgpt
 cask chrome-remote-desktop-host
@@ -340,7 +343,6 @@ cask google-chrome
 cask google-cloud-sdk
 cask google-drive
 cask google-japanese-ime
-cask grammarly
 cask handbrake
 cask handbrakebatch
 cask inkscape
@@ -362,6 +364,7 @@ cask rstudio
 cask skype-for-business
 cask slack
 cask sourcetree
+cask temurin@8
 cask the-unarchiver
 cask tunnelbear
 cask tunnelblick
@@ -394,7 +397,6 @@ tap glasskube/tap
 tap grpc/grpc
 
 tap homeport/tap
-brew dyff
 
 tap instrumenta/instrumenta
 
@@ -426,39 +428,38 @@ brew python-cryptography
 brew python-dateutil
 brew python-jinja
 brew python-markupsafe
-brew python-pathspec
 brew python-pyparsing
 brew terraforming
 
 # Other Cask applications
-cask adoptopenjdk8
 cask forticlient-vpn
+cask grammarly
 
 # App Store applications
 appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
 appstore 606957946 BitcoinMonitor (4.0.1)
-appstore 1352778147 Bitwarden (2025.1.4)
+appstore 1352778147 Bitwarden (2025.3.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 955297617 CodeRunner (4.4.1)
 appstore 6449748961 DeathStranding (1.1.4)
-appstore 640199958 Developer (10.7.1)
-appstore 1380563956 Dictionaries (1.2.61)
+appstore 640199958 Developer (10.7.2)
+appstore 1380563956 Dictionaries (1.2.63)
 appstore 549083868 Display Menu (2.2.5)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.12)
 appstore 408981434 iMovie (10.4.3)
-appstore 409183694 Keynote (14.3)
+appstore 409183694 Keynote (14.4)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (9.5.0)
-appstore 922765270 LiquidText (2.10.29)
+appstore 539883307 LINE (9.8.1)
+appstore 922765270 LiquidText (7.0.7)
 appstore 1632993345 Noise Alerts (1.0.3)
-appstore 409203825 Numbers (14.3)
-appstore 409201541 Pages (14.3)
+appstore 409203825 Numbers (14.4)
+appstore 409201541 Pages (14.4)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
 appstore 403195710 Remote Mouse (3.302)
 appstore 412356892 Speed-Up (2.4.2)
-appstore 1437809329 Surfshark (4.17.0)
-appstore 310633997 WhatsApp (25.1.10)
-appstore 497799835 Xcode (16.2)
+appstore 1437809329 Surfshark (4.19.0)
+appstore 310633997 WhatsApp (25.12.73)
+appstore 497799835 Xcode (16.3)

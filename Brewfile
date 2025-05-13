@@ -32,6 +32,7 @@ brew cairo
 brew cask
 brew cffi
 brew chrome-cli
+brew circleci
 brew cjson
 brew cmake
 brew cmocka
@@ -366,7 +367,6 @@ cask pdfelement
 cask rstudio
 cask skype-for-business
 cask slack
-cask sourcetree
 cask temurin@8
 cask the-unarchiver
 cask tunnelbear

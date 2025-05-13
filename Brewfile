@@ -32,7 +32,6 @@ brew cairo
 brew cask
 brew cffi
 brew chrome-cli
-brew circleci
 brew cjson
 brew cmake
 brew cmocka
@@ -92,6 +91,7 @@ brew helm
 brew helmfile
 brew highway
 brew hub
+brew icu4c
 brew icu4c@76
 brew imagemagick
 brew imath
@@ -231,10 +231,13 @@ brew pcre2
 brew perl
 brew pinentry
 brew pixman
+brew pkg-config
 brew powerline-go
 brew protobuf
 brew protobuf@29
 brew pycparser
+brew python-certifi
+brew python-cryptography
 brew python-packaging
 brew python@3.10
 brew python@3.11
@@ -420,11 +423,7 @@ tap weaveworks/tap
 # Other Homebrew packages
 brew dep
 brew glide
-brew icu4c
 brew ilmbase
-brew pkg-config
-brew python-certifi
-brew python-cryptography
 brew python-dateutil
 brew python-jinja
 brew python-markupsafe
@@ -439,7 +438,7 @@ cask grammarly
 appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
 appstore 606957946 BitcoinMonitor (4.0.1)
-appstore 1352778147 Bitwarden (2025.3.0)
+appstore 1352778147 Bitwarden (2025.4.2)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 955297617 CodeRunner (4.4.1)
 appstore 6449748961 DeathStranding (1.1.4)
@@ -452,7 +451,7 @@ appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (9.8.1)
-appstore 922765270 LiquidText (7.0.7)
+appstore 922765270 LiquidText (7.0.9)
 appstore 1632993345 Noise Alerts (1.0.3)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
@@ -461,5 +460,5 @@ appstore 467103113 Relax Melodies (6.0.1)
 appstore 403195710 Remote Mouse (3.302)
 appstore 412356892 Speed-Up (2.4.2)
 appstore 1437809329 Surfshark (4.19.0)
-appstore 310633997 WhatsApp (25.12.73)
+appstore 310633997 WhatsApp (25.14.77)
 appstore 497799835 Xcode (16.3)

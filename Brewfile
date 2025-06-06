@@ -367,6 +367,7 @@ cask pdfelement
 cask rstudio
 cask skype-for-business
 cask slack
+cask sourcetree
 cask temurin@8
 cask the-unarchiver
 cask tunnelbear
@@ -424,6 +425,7 @@ tap weaveworks/tap
 brew dep
 brew glide
 brew ilmbase
+brew im-select
 brew python-dateutil
 brew python-jinja
 brew python-markupsafe

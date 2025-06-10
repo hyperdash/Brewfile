@@ -425,7 +425,6 @@ tap weaveworks/tap
 brew dep
 brew glide
 brew ilmbase
-brew im-select
 brew python-dateutil
 brew python-jinja
 brew python-markupsafe

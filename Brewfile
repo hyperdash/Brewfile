@@ -389,6 +389,9 @@ tap argon/mas
 
 tap buo/cask-upgrade
 
+tap daipeihust/tap
+brew im-select
+
 tap derailed/k9s
 
 tap dtan4/dtan4

@@ -329,6 +329,7 @@ cask blackhole-16ch
 cask brave-browser
 cask burp-suite
 cask chatgpt
+cask choosy
 cask chrome-remote-desktop-host
 cask chromedriver
 cask coderunner
@@ -364,7 +365,6 @@ cask ngrok
 cask pdf-expert
 cask pdfelement
 cask rstudio
-cask skype-for-business
 cask slack
 cask sourcetree
 cask temurin@8

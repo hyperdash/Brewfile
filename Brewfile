@@ -432,7 +432,6 @@ appstore 640199958 Developer (10.8.2)
 appstore 1380563956 Dictionaries (1.2.67)
 =======
 appstore 955297617 CodeRunner (4.5)
-appstore 6449748961 DeathStranding (1.1.4)
 appstore 640199958 Developer (10.8.3)
 appstore 1380563956 Dictionaries (1.3.4)
 >>>>>>> 74ccef96e0799c1a0496ce58fd71fc1845c8b056

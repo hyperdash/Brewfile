@@ -101,6 +101,7 @@ brew iproute2mac
 brew isl
 brew istioctl
 brew ivy
+brew jansson
 brew jasper
 brew jbig2dec
 brew jemalloc
@@ -128,6 +129,9 @@ brew libcbor
 brew libcroco
 brew libde265
 brew libdeflate
+brew libdvdcss
+brew libdvdnav
+brew libdvdread
 brew libev
 brew libevent
 brew libffi
@@ -166,6 +170,7 @@ brew libtermkey
 brew libtiff
 brew libtommath
 brew libtool
+brew libudfread
 brew libunibreak
 brew libuninameslist
 brew libunistring
@@ -221,6 +226,7 @@ brew openjdk
 brew openjdk@11
 brew openjdk@21
 brew openjpeg
+brew openjph
 brew openssl@3
 brew operator-sdk
 brew opus
@@ -293,6 +299,7 @@ brew unbound
 brew unibilium
 brew utf8proc
 brew util-macros
+brew uvwasi
 brew vim
 brew watch
 brew webp
@@ -332,6 +339,8 @@ cask chatgpt
 cask choosy
 cask chrome-remote-desktop-host
 cask chromedriver
+cask claude
+cask claude-code
 cask coderunner
 cask cyberduck
 cask daisydisk
@@ -417,19 +426,19 @@ tap weaveworks/tap
 # App Store applications
 appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
-appstore 1352778147 Bitwarden (2025.7.0)
+appstore 1352778147 Bitwarden (2025.9.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
-appstore 955297617 CodeRunner (4.4.1)
+appstore 955297617 CodeRunner (4.5)
 appstore 6449748961 DeathStranding (1.1.4)
-appstore 640199958 Developer (10.8.2)
-appstore 1380563956 Dictionaries (1.2.67)
+appstore 640199958 Developer (10.8.3)
+appstore 1380563956 Dictionaries (1.3.4)
 appstore 549083868 Display Menu (2.2.5)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.12)
 appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (9.10.1)
+appstore 539883307 LINE (9.12.1)
 appstore 1632993345 Noise Alerts (1.0.3)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
@@ -438,5 +447,5 @@ appstore 467103113 Relax Melodies (6.0.1)
 appstore 403195710 Remote Mouse (3.303)
 appstore 412356892 Speed-Up (2.4.2)
 appstore 1437809329 Surfshark (4.22.1)
-appstore 310633997 WhatsApp (25.21.80)
-appstore 497799835 Xcode (16.4)
+appstore 310633997 WhatsApp (25.25.74)
+appstore 497799835 Xcode (26.0.1)

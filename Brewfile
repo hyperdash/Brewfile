@@ -188,6 +188,7 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew libyaml
+brew libzip
 brew little-cms2
 brew lpeg
 brew lua
@@ -232,7 +233,6 @@ brew operator-sdk
 brew opus
 brew p11-kit
 brew p7zip
-brew packer
 brew pango
 brew parallel
 brew pcre
@@ -252,6 +252,7 @@ brew python@3.10
 brew python@3.11
 brew python@3.12
 brew python@3.13
+brew python@3.14
 brew python@3.9
 brew r
 brew rav1e
@@ -423,6 +424,9 @@ tap sanemat/font
 
 tap weaveworks/tap
 
+# Other Homebrew packages
+brew packer
+
 # App Store applications
 appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
@@ -435,8 +439,12 @@ appstore 1380563956 Dictionaries (1.2.67)
 =======
 appstore 955297617 CodeRunner (4.5)
 appstore 640199958 Developer (10.8.3)
+<<<<<<< HEAD
 appstore 1380563956 Dictionaries (1.3.4)
 >>>>>>> 74ccef96e0799c1a0496ce58fd71fc1845c8b056
+=======
+appstore 1380563956 Dictionaries (1.3.13)
+>>>>>>> 1b603927de4b84d52f1bb72ea32b4e82575e6fd4
 appstore 549083868 Display Menu (2.2.5)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.12)
@@ -449,8 +457,8 @@ appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
-appstore 403195710 Remote Mouse (3.303)
+appstore 403195710 Remote Mouse (3.400)
 appstore 412356892 Speed-Up (2.4.2)
-appstore 1437809329 Surfshark (4.22.1)
-appstore 310633997 WhatsApp (25.25.74)
+appstore 1437809329 Surfshark (4.23.0)
+appstore 310633997 WhatsApp (25.28.75)
 appstore 497799835 Xcode (26.0.1)

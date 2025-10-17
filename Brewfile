@@ -36,6 +36,7 @@ brew circleci
 brew cjson
 brew cmake
 brew cmocka
+brew codex
 brew colordiff
 brew coreutils
 brew d2
@@ -262,6 +263,7 @@ brew reattach-to-user-namespace
 brew redis
 brew remarshal
 brew rename
+brew ripgrep
 brew rtmpdump
 brew rubberband
 brew ruby
@@ -330,9 +332,11 @@ brew zstd
 
 tap homebrew/cask
 cask adobe-acrobat-reader
+cask adoptopenjdk
 cask alfred
 cask amazon-photos
 cask appcleaner
+cask authy
 cask blackhole-16ch
 cask brave-browser
 cask burp-suite
@@ -349,6 +353,7 @@ cask dbeaver-community
 cask deepl
 cask discord
 cask docker
+cask dozer
 cask dropbox
 cask fantastical
 cask firefox
@@ -360,21 +365,26 @@ cask google-cloud-sdk
 cask google-drive
 cask google-japanese-ime
 cask handbrake
+cask handbrakebatch
 cask inkscape
 cask intellij-idea
 cask istat-menus
 cask iterm2
 cask karabiner-elements
+cask kindle
 cask launchcontrol
 cask macfuse
+cask meld
 cask microsoft-auto-update
 cask microsoft-teams
 cask monitorcontrol
 cask mysqlworkbench
 cask ngrok
+cask notunes
 cask pdf-expert
 cask pdfelement
 cask rstudio
+cask skype-for-business
 cask slack
 cask sourcetree
 cask temurin@8
@@ -385,6 +395,10 @@ cask utm
 cask visual-studio-code
 cask vlc
 cask whatsapp
+cask wkhtmltopdf
+cask zoom
+
+tap homebrew/bundle
 
 tap argon/mas
 
@@ -421,44 +435,61 @@ brew jaggr
 brew jplot
 
 tap sanemat/font
+brew ricty --with-powerline
+
+tap vectordotdev/brew
+brew vector
 
 tap weaveworks/tap
 
 # Other Homebrew packages
+brew dep
+brew glide
+brew ilmbase
 brew packer
+brew python-dateutil
+brew python-jinja
+brew python-markupsafe
+brew python-pyparsing
+brew terraforming
+
+# Other Cask applications
+cask forticlient-vpn
+cask grammarly
 
 # App Store applications
 appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
+appstore 606957946 BitcoinMonitor (4.0.1)
 appstore 1352778147 Bitwarden (2025.9.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
-<<<<<<< HEAD
-appstore 955297617 CodeRunner (4.4.1)
-appstore 640199958 Developer (10.8.2)
-appstore 1380563956 Dictionaries (1.2.67)
-=======
 appstore 955297617 CodeRunner (4.5)
 appstore 640199958 Developer (10.8.3)
-<<<<<<< HEAD
-appstore 1380563956 Dictionaries (1.3.4)
->>>>>>> 74ccef96e0799c1a0496ce58fd71fc1845c8b056
-=======
-appstore 1380563956 Dictionaries (1.3.13)
->>>>>>> 1b603927de4b84d52f1bb72ea32b4e82575e6fd4
+appstore 1380563956 Dictionaries (1.3.14)
 appstore 549083868 Display Menu (2.2.5)
 appstore 413857545 Divvy (1.5.2)
 appstore 682658836 GarageBand (10.4.12)
+appstore 1452453066 Hidden Bar (1.8)
 appstore 408981434 iMovie (10.4.3)
 appstore 409183694 Keynote (14.4)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (9.12.1)
+appstore 922765270 LiquidText (7.0.27)
 appstore 1632993345 Noise Alerts (1.0.3)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
-appstore 403195710 Remote Mouse (3.400)
+appstore 403195710 Remote Mouse (3.403)
 appstore 412356892 Speed-Up (2.4.2)
 appstore 1437809329 Surfshark (4.23.0)
 appstore 310633997 WhatsApp (25.28.75)
 appstore 497799835 Xcode (26.0.1)
+
+# Other commands
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 74ccef96e0799c1a0496ce58fd71fc1845c8b056
+=======
+>>>>>>> 1b603927de4b84d52f1bb72ea32b4e82575e6fd4

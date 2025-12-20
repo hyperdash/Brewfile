@@ -438,7 +438,6 @@ brew python-pyparsing
 brew terraforming
 
 # Other Cask applications
-cask dozer
 cask grammarly
 cask wkhtmltopdf
 

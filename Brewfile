@@ -379,7 +379,6 @@ cask tunnelbear
 cask utm
 cask visual-studio-code
 cask vlc
-cask zoom
 
 tap argon/mas
 

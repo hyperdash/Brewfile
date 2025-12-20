@@ -437,9 +437,6 @@ brew python-markupsafe
 brew python-pyparsing
 brew terraforming
 
-# Other Cask applications
-cask grammarly
-
 # App Store applications
 appstore 1352778147 Bitwarden (2025.12.0)
 appstore 640199958 Developer (10.8.3)

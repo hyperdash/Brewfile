@@ -66,7 +66,6 @@ brew gh
 brew ghostscript
 brew giflib
 brew git
-brew git-flow
 brew git-lfs
 brew glasskube
 brew glib
@@ -95,8 +94,6 @@ brew helmfile
 brew highway
 brew hub
 brew icu4c
-brew icu4c@76
-brew icu4c@77
 brew imagemagick
 brew imath
 brew iproute2mac
@@ -128,7 +125,6 @@ brew libavif
 brew libb2
 brew libbluray
 brew libcbor
-brew libcroco
 brew libde265
 brew libdeflate
 brew libdvdcss
@@ -140,8 +136,6 @@ brew libffi
 brew libfido2
 brew libgcrypt
 brew libgit2
-brew libgit2@1.7
-brew libgit2@1.8
 brew libgpg-error
 brew libheif
 brew libiconv
@@ -253,12 +247,7 @@ brew pycparser
 brew python-certifi
 brew python-cryptography
 brew python-packaging
-brew python@3.10
-brew python@3.11
-brew python@3.12
-brew python@3.13
-brew python@3.14
-brew python@3.9
+brew python
 brew r
 brew rav1e
 brew re2
@@ -279,7 +268,6 @@ brew sheldon
 brew shfmt
 brew simdjson
 brew sipcalc
-# brew six
 brew skinny
 brew skopeo
 brew snappy
@@ -294,7 +282,6 @@ brew subversion
 brew svt-av1
 brew tcl-tk
 brew tcl-tk@8
-brew terraform
 brew terragrunt
 brew tesseract
 brew texi2html
@@ -354,7 +341,6 @@ cask docker
 cask dropbox
 cask fantastical
 cask font-hack-nerd-font
-cask font-ricty-diminished
 cask google-chrome
 cask google-cloud-sdk
 cask google-drive

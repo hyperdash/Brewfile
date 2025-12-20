@@ -381,8 +381,6 @@ cask visual-studio-code
 cask vlc
 cask zoom
 
-tap homebrew/bundle
-
 tap argon/mas
 
 tap buo/cask-upgrade

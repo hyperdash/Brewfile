@@ -439,7 +439,6 @@ brew terraforming
 
 # Other Cask applications
 cask grammarly
-cask wkhtmltopdf
 
 # App Store applications
 appstore 1352778147 Bitwarden (2025.12.0)

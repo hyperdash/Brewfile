@@ -421,18 +421,6 @@ brew vector
 
 tap weaveworks/tap
 
-# Other Homebrew packages
-brew codex
-brew dep
-brew glide
-brew ilmbase
-brew packer
-brew python-dateutil
-brew python-jinja
-brew python-markupsafe
-brew python-pyparsing
-brew terraforming
-
 # App Store applications
 appstore 1352778147 Bitwarden (2025.12.0)
 appstore 640199958 Developer (10.8.3)

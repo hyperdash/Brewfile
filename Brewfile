@@ -340,7 +340,6 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask alfred
 cask amazon-photos
-cask authy
 cask blackhole-16ch
 cask brave-browser
 cask chatgpt

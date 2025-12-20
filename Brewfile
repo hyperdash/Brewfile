@@ -399,9 +399,6 @@ tap rs/tap
 brew jaggr
 brew jplot
 
-tap sanemat/font
-brew ricty --with-powerline
-
 tap vectordotdev/brew
 brew vector
 

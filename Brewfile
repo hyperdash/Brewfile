@@ -441,7 +441,6 @@ brew terraforming
 cask dozer
 cask forticlient-vpn
 cask grammarly
-cask kindle
 cask wkhtmltopdf
 
 # App Store applications

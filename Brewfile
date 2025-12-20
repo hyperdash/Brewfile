@@ -426,9 +426,6 @@ tap sanemat/font
 
 tap weaveworks/tap
 
-# Other Homebrew packages
-brew packer
-
 # App Store applications
 appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1495719766 AmorphousMemoryMark (3.0)
@@ -457,9 +454,3 @@ appstore 310633997 WhatsApp (25.33.73)
 appstore 497799835 Xcode (26.1.1)
 
 # Other commands
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 74ccef96e0799c1a0496ce58fd71fc1845c8b056
-=======
->>>>>>> 1b603927de4b84d52f1bb72ea32b4e82575e6fd4

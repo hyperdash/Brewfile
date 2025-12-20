@@ -279,7 +279,7 @@ brew sheldon
 brew shfmt
 brew simdjson
 brew sipcalc
-brew six
+# brew six
 brew skinny
 brew skopeo
 brew snappy

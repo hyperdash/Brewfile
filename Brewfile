@@ -439,7 +439,6 @@ brew terraforming
 
 # Other Cask applications
 cask dozer
-cask forticlient-vpn
 cask grammarly
 cask wkhtmltopdf
 

@@ -423,8 +423,6 @@ brew vector
 
 tap weaveworks/tap
 
-<<<<<<< HEAD
-=======
 # Other Homebrew packages
 brew codex
 brew dep

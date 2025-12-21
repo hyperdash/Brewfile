@@ -66,6 +66,7 @@ brew gh
 brew ghostscript
 brew giflib
 brew git
+brew git-flow
 brew git-lfs
 brew glasskube
 brew glib
@@ -94,6 +95,8 @@ brew helmfile
 brew highway
 brew hub
 brew icu4c
+brew icu4c@76
+brew icu4c@77
 brew imagemagick
 brew imath
 brew iproute2mac
@@ -125,6 +128,7 @@ brew libavif
 brew libb2
 brew libbluray
 brew libcbor
+brew libcroco
 brew libde265
 brew libdeflate
 brew libdvdcss
@@ -136,6 +140,8 @@ brew libffi
 brew libfido2
 brew libgcrypt
 brew libgit2
+brew libgit2@1.7
+brew libgit2@1.8
 brew libgpg-error
 brew libheif
 brew libiconv
@@ -244,10 +250,15 @@ brew powerline-go
 brew protobuf
 brew protobuf@29
 brew pycparser
+brew python
 brew python-certifi
 brew python-cryptography
 brew python-packaging
-brew python
+brew python@3.10
+brew python@3.11
+brew python@3.12
+brew python@3.13
+brew python@3.9
 brew r
 brew rav1e
 brew re2
@@ -282,6 +293,7 @@ brew subversion
 brew svt-av1
 brew tcl-tk
 brew tcl-tk@8
+brew terraform
 brew terragrunt
 brew tesseract
 brew texi2html
@@ -327,26 +339,40 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask alfred
 cask amazon-photos
+cask appcleaner
+cask bartender
 cask blackhole-16ch
 cask brave-browser
+cask burp-suite
 cask chatgpt
 cask choosy
 cask chrome-remote-desktop-host
 cask chromedriver
 cask claude
 cask claude-code
+cask coderunner
+cask cyberduck
+cask daisydisk
+cask dbeaver-community
 cask deepl
 cask discord
 cask docker
 cask dropbox
 cask fantastical
+cask firefox
 cask font-hack-nerd-font
+cask font-ricty-diminished
+cask gimp
 cask google-chrome
 cask google-cloud-sdk
 cask google-drive
 cask google-japanese-ime
+cask handbrake-app
+cask inkscape
+cask intellij-idea
 cask istat-menus
 cask iterm2
+cask karabiner-elements
 cask launchcontrol
 cask macfuse
 cask microsoft-auto-update
@@ -357,13 +383,17 @@ cask ngrok
 cask notunes
 cask pdf-expert
 cask pdfelement
+cask rstudio
 cask slack
 cask sourcetree
+cask temurin@8
 cask the-unarchiver
 cask tunnelbear
+cask tunnelblick
 cask utm
 cask visual-studio-code
 cask vlc
+cask whatsapp
 
 tap argon/mas
 
@@ -398,6 +428,8 @@ brew kube-capacity
 tap rs/tap
 brew jaggr
 brew jplot
+
+tap sanemat/font
 
 tap vectordotdev/brew
 brew vector

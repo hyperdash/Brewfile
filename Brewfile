@@ -67,7 +67,6 @@ brew ghostscript
 brew giflib
 brew git
 brew git-flow
-brew git-lfs
 brew glasskube
 brew glib
 brew glow
@@ -206,7 +205,6 @@ brew make
 brew makedepend
 brew mas
 brew maven
-brew mbedtls
 brew mbedtls@3
 brew mercurial
 brew mpdecimal
@@ -267,7 +265,6 @@ brew reattach-to-user-namespace
 brew redis
 brew remarshal
 brew rename
-brew ripgrep
 brew rtmpdump
 brew rubberband
 brew ruby
@@ -280,7 +277,6 @@ brew shfmt
 brew simdjson
 brew sipcalc
 brew skinny
-brew skopeo
 brew snappy
 brew speex
 brew sphinx-doc
@@ -432,7 +428,6 @@ brew jplot
 tap sanemat/font
 
 tap vectordotdev/brew
-brew vector
 
 tap weaveworks/tap
 
@@ -451,5 +446,6 @@ appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
+appstore 1437809329 Surfshark (4.25.1)
 appstore 310633997 WhatsApp (25.37.76)
 appstore 497799835 Xcode (26.2)

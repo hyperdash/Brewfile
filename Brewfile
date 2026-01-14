@@ -439,7 +439,8 @@ tap weaveworks/tap
 # App Store applications
 appstore 1352778147 Bitwarden (2025.12.0)
 appstore 640199958 Developer (10.8.3)
-appstore 549083868 Display Menu (2.2.5)
+appstore 1380563956 Dictionaries (1.3.15)
+appstore 549083868 Display Menu (2.2.6)
 appstore 413857545 Divvy (1.5.2)
 appstore 1452453066 Hidden Bar (1.8)
 appstore 408981434 iMovie (10.4.3)

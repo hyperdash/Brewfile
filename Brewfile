@@ -11,6 +11,7 @@ brew aom
 brew apr
 brew apr-util
 brew aribb24
+brew asdf
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
@@ -337,6 +338,7 @@ brew zstd
 
 tap homebrew/cask
 cask adobe-acrobat-reader
+cask affinity
 cask alfred
 cask amazon-photos
 cask appcleaner
@@ -350,6 +352,7 @@ cask chrome-remote-desktop-host
 cask chromedriver
 cask claude
 cask claude-code
+cask cloudflare-warp
 cask coderunner
 cask cyberduck
 cask daisydisk
@@ -437,7 +440,9 @@ brew vector
 tap weaveworks/tap
 
 # App Store applications
+appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1352778147 Bitwarden (2025.12.0)
+appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 640199958 Developer (10.8.3)
 appstore 1380563956 Dictionaries (1.3.15)
 appstore 549083868 Display Menu (2.2.6)
@@ -451,5 +456,5 @@ appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
-appstore 310633997 WhatsApp (25.37.76)
+appstore 310633997 WhatsApp (26.1.74)
 appstore 497799835 Xcode (26.2)

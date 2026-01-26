@@ -11,6 +11,7 @@ brew aom
 brew apr
 brew apr-util
 brew aribb24
+brew asdf
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
@@ -67,6 +68,7 @@ brew ghostscript
 brew giflib
 brew git
 brew git-flow
+brew git-lfs
 brew glasskube
 brew glib
 brew glow
@@ -205,6 +207,7 @@ brew make
 brew makedepend
 brew mas
 brew maven
+brew mbedtls
 brew mbedtls@3
 brew mercurial
 brew mpdecimal
@@ -265,6 +268,7 @@ brew reattach-to-user-namespace
 brew redis
 brew remarshal
 brew rename
+brew ripgrep
 brew rtmpdump
 brew rubberband
 brew ruby
@@ -277,6 +281,7 @@ brew shfmt
 brew simdjson
 brew sipcalc
 brew skinny
+brew skopeo
 brew snappy
 brew speex
 brew sphinx-doc
@@ -346,6 +351,7 @@ cask chrome-remote-desktop-host
 cask chromedriver
 cask claude
 cask claude-code
+cask cloudflare-warp
 cask coderunner
 cask cyberduck
 cask daisydisk
@@ -428,10 +434,12 @@ brew jplot
 tap sanemat/font
 
 tap vectordotdev/brew
+brew vector
 
 tap weaveworks/tap
 
 # App Store applications
+appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1352778147 Bitwarden (2025.12.0)
 appstore 640199958 Developer (10.8.3)
 appstore 1380563956 Dictionaries (1.3.15)
@@ -447,5 +455,5 @@ appstore 409201541 Pages (14.4)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
 appstore 1437809329 Surfshark (4.25.1)
-appstore 310633997 WhatsApp (25.37.76)
+appstore 310633997 WhatsApp (26.2.74)
 appstore 497799835 Xcode (26.2)

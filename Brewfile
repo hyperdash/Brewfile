@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew abseil
+brew ada-url
 brew adns
 brew ansible
 brew ant
@@ -10,8 +11,6 @@ brew anyenv
 brew aom
 brew apr
 brew apr-util
-brew aribb24
-brew asdf
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
@@ -51,11 +50,10 @@ brew emacs
 brew expat
 brew eza
 brew ffmpeg
-brew flac
+brew fmt
 brew fontconfig
 brew fontforge
 brew freetype
-brew frei0r
 brew fribidi
 brew gcc
 brew gd
@@ -68,7 +66,6 @@ brew ghostscript
 brew giflib
 brew git
 brew git-flow
-brew git-lfs
 brew glasskube
 brew glib
 brew glow
@@ -91,6 +88,7 @@ brew guile
 brew hadoop
 brew handbrake
 brew harfbuzz
+brew hdrhistogram_c
 brew helm
 brew helmfile
 brew highway
@@ -149,23 +147,15 @@ brew libiconv
 brew libidn
 brew libidn2
 brew libksba
-brew liblqr
-brew libmicrohttpd
 brew libmpc
 brew libnghttp2
 brew libnghttp3
 brew libngtcp2
 brew libogg
-brew libomp
 brew libpng
 brew libpthread-stubs
-brew libraw
-brew librist
 brew librsvg
-brew libsamplerate
-brew libsndfile
 brew libsodium
-brew libsoxr
 brew libspiro
 brew libssh
 brew libssh2
@@ -175,13 +165,11 @@ brew libtiff
 brew libtommath
 brew libtool
 brew libudfread
-brew libultrahdr
 brew libunibreak
 brew libuninameslist
 brew libunistring
 brew libusb
 brew libuv
-brew libvidstab
 brew libvmaf
 brew libvorbis
 brew libvpx
@@ -193,8 +181,8 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew libyaml
-brew libzip
 brew little-cms2
+brew llhttp
 brew lpeg
 brew lua
 brew luajit
@@ -207,12 +195,9 @@ brew make
 brew makedepend
 brew mas
 brew maven
-brew mbedtls
-brew mbedtls@3
 brew mercurial
 brew mpdecimal
 brew mpfr
-brew mpg123
 brew msgpack
 brew mysql
 brew nasm
@@ -261,16 +246,13 @@ brew python@3.12
 brew python@3.13
 brew python@3.9
 brew r
-brew rav1e
 brew re2
 brew readline
 brew reattach-to-user-namespace
 brew redis
 brew remarshal
 brew rename
-brew ripgrep
 brew rtmpdump
-brew rubberband
 brew ruby
 brew ruby-build
 brew scons
@@ -281,13 +263,10 @@ brew shfmt
 brew simdjson
 brew sipcalc
 brew skinny
-brew skopeo
-brew snappy
 brew speex
 brew sphinx-doc
 brew sqlite
 brew squid
-brew srt
 brew stern
 brew stoken
 brew subversion
@@ -318,7 +297,6 @@ brew x264
 brew x265
 brew xmlto
 brew xorgproto
-brew xvid
 brew xz
 brew yamllint
 brew yq
@@ -351,7 +329,6 @@ cask chrome-remote-desktop-host
 cask chromedriver
 cask claude
 cask claude-code
-cask cloudflare-warp
 cask coderunner
 cask cyberduck
 cask daisydisk
@@ -434,7 +411,6 @@ brew jplot
 tap sanemat/font
 
 tap vectordotdev/brew
-brew vector
 
 tap weaveworks/tap
 

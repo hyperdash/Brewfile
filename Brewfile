@@ -332,7 +332,6 @@ brew yamllint
 brew yq
 brew zeromq
 brew zimg
-brew zlib
 brew zlib-ng-compat
 brew zookeeper
 brew zsh
@@ -357,7 +356,6 @@ cask brave-browser
 cask burp-suite
 cask chatgpt
 cask choosy
-cask chrome-remote-desktop-host
 cask chromedriver
 cask claude
 cask claude-code

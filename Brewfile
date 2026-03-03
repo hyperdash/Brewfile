@@ -11,8 +11,6 @@ brew anyenv
 brew aom
 brew apr
 brew apr-util
-brew aribb24
-brew asdf
 brew autoconf
 brew automake
 brew aws-elasticbeanstalk
@@ -52,12 +50,10 @@ brew emacs
 brew expat
 brew eza
 brew ffmpeg
-brew flac
 brew fmt
 brew fontconfig
 brew fontforge
 brew freetype
-brew frei0r
 brew fribidi
 brew gcc
 brew gd
@@ -70,7 +66,6 @@ brew ghostscript
 brew giflib
 brew git
 brew git-flow
-brew git-lfs
 brew glasskube
 brew glib
 brew glow
@@ -154,8 +149,6 @@ brew libiconv
 brew libidn
 brew libidn2
 brew libksba
-brew liblqr
-brew libmicrohttpd
 brew libmpc
 brew libnghttp2
 brew libnghttp3
@@ -164,13 +157,8 @@ brew libogg
 brew libomp
 brew libpng
 brew libpthread-stubs
-brew libraw
-brew librist
 brew librsvg
-brew libsamplerate
-brew libsndfile
 brew libsodium
-brew libsoxr
 brew libspiro
 brew libssh
 brew libssh2
@@ -181,13 +169,11 @@ brew libtiff
 brew libtommath
 brew libtool
 brew libudfread
-brew libultrahdr
 brew libunibreak
 brew libuninameslist
 brew libunistring
 brew libusb
 brew libuv
-brew libvidstab
 brew libvmaf
 brew libvorbis
 brew libvpx
@@ -199,7 +185,6 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew libyaml
-brew libzip
 brew little-cms2
 brew llhttp
 brew lpeg
@@ -214,12 +199,9 @@ brew make
 brew makedepend
 brew mas
 brew maven
-brew mbedtls
-brew mbedtls@3
 brew mercurial
 brew mpdecimal
 brew mpfr
-brew mpg123
 brew msgpack
 brew mysql
 brew nasm
@@ -269,16 +251,13 @@ brew python@3.12
 brew python@3.13
 brew python@3.9
 brew r
-brew rav1e
 brew re2
 brew readline
 brew reattach-to-user-namespace
 brew redis
 brew remarshal
 brew rename
-brew ripgrep
 brew rtmpdump
-brew rubberband
 brew ruby
 brew ruby-build
 brew scons
@@ -289,13 +268,10 @@ brew shfmt
 brew simdjson
 brew sipcalc
 brew skinny
-brew skopeo
-brew snappy
 brew speex
 brew sphinx-doc
 brew sqlite
 brew squid
-brew srt
 brew stern
 brew stoken
 brew subversion
@@ -326,7 +302,6 @@ brew x264
 brew x265
 brew xmlto
 brew xorgproto
-brew xvid
 brew xz
 brew yamllint
 brew yq
@@ -361,7 +336,6 @@ cask chrome-remote-desktop-host
 cask chromedriver
 cask claude
 cask claude-code
-cask cloudflare-warp
 cask coderunner
 cask cyberduck
 cask daisydisk
@@ -445,7 +419,6 @@ brew jplot
 tap sanemat/font
 
 tap vectordotdev/brew
-brew vector
 
 tap weaveworks/tap
 
@@ -460,6 +433,7 @@ appstore 413857545 Divvy (1.5.2)
 appstore 1452453066 Hidden Bar (1.8)
 appstore 408981434 iMovie (10.4.4)
 appstore 409183694 Keynote (14.5)
+<<<<<<< HEAD
 appstore 361285480 Keynote Creator Studio (15.1.1)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (26.0.1)
@@ -467,6 +441,12 @@ appstore 361304891 Numbers Creator Studio (15.1)
 appstore 409203825 Numbers (14.5)
 appstore 409201541 Pages (14.5)
 appstore 361309726 Pages Creator Studio (15.1.1)
+=======
+appstore 411213048 LadioCast (000013000)
+appstore 539883307 LINE (9.14.0)
+appstore 409203825 Numbers (14.5)
+appstore 409201541 Pages (14.5)
+>>>>>>> 11e57350d145ec26cd204842d1bffc536217c3e8
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
 appstore 1437809329 Surfshark (4.25.1)

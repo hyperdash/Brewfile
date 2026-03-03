@@ -95,6 +95,7 @@ brew handbrake
 brew harfbuzz
 brew hdrhistogram_c
 brew helm
+brew helm@3
 brew helmfile
 brew highway
 brew hub
@@ -256,6 +257,7 @@ brew pkg-config
 brew powerline-go
 brew protobuf
 brew protobuf@29
+brew protobuf@33
 brew pycparser
 brew python
 brew python-certifi
@@ -331,6 +333,7 @@ brew yq
 brew zeromq
 brew zimg
 brew zlib
+brew zlib-ng-compat
 brew zookeeper
 brew zsh
 brew zsh-autosuggestions
@@ -403,6 +406,7 @@ cask utm
 cask visual-studio-code
 cask vlc
 cask whatsapp
+cask windscribe
 
 tap argon/mas
 
@@ -447,29 +451,32 @@ tap weaveworks/tap
 
 # App Store applications
 appstore 1168254295 AmorphousDiskMark (4.0.1)
-appstore 1352778147 Bitwarden (2025.12.0)
+appstore 1352778147 Bitwarden (2026.1.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 640199958 Developer (10.8.3)
-appstore 1380563956 Dictionaries (1.3.15)
+appstore 1380563956 Dictionaries (1.3.16)
 appstore 549083868 Display Menu (2.2.6)
 appstore 413857545 Divvy (1.5.2)
 appstore 1452453066 Hidden Bar (1.8)
-appstore 408981434 iMovie (10.4.3)
-appstore 409183694 Keynote (14.4)
+appstore 408981434 iMovie (10.4.4)
+appstore 409183694 Keynote (14.5)
+appstore 361285480 Keynote Creator Studio (15.1.1)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (9.14.0)
-appstore 409203825 Numbers (14.4)
-appstore 409201541 Pages (14.4)
+appstore 539883307 LINE (26.0.1)
+appstore 361304891 Numbers Creator Studio (15.1)
+appstore 409203825 Numbers (14.5)
+appstore 409201541 Pages (14.5)
+appstore 361309726 Pages Creator Studio (15.1.1)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
-<<<<<<< HEAD
-appstore 310633997 WhatsApp (26.1.74)
-=======
 appstore 1437809329 Surfshark (4.25.1)
+appstore 310633997 WhatsApp (26.6.73)
+appstore 497799835 Xcode (26.2)
+
+# Other commands
 <<<<<<< HEAD
-appstore 310633997 WhatsApp (25.37.76)
+=======
+<<<<<<< HEAD
 >>>>>>> e14cda8f247f8e1d75d2dfe10675e51a75580e3d
 =======
-appstore 310633997 WhatsApp (26.2.74)
 >>>>>>> 26c0ca5279bd2cd2fa35e4ccecbc99cc172be95e
-appstore 497799835 Xcode (26.2)

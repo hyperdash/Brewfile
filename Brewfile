@@ -332,7 +332,6 @@ cask brave-browser
 cask burp-suite
 cask chatgpt
 cask choosy
-cask chrome-remote-desktop-host
 cask chromedriver
 cask claude
 cask claude-code

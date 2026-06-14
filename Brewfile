@@ -9,6 +9,7 @@ brew ansible
 brew ant
 brew anyenv
 brew aom
+brew apache-serf
 brew apr
 brew apr-util
 brew aribb24
@@ -49,6 +50,7 @@ brew duti
 brew dyff
 brew eksctl
 brew emacs
+brew exiftool
 brew expat
 brew eza
 brew ffmpeg
@@ -150,7 +152,6 @@ brew libgit2@1.7
 brew libgit2@1.8
 brew libgpg-error
 brew libheif
-brew libiconv
 brew libidn
 brew libidn2
 brew libksba
@@ -178,6 +179,7 @@ brew libtasn1
 brew libtermkey
 brew libthai
 brew libtiff
+brew libtomcrypt
 brew libtommath
 brew libtool
 brew libudfread
@@ -217,12 +219,16 @@ brew maven
 brew mbedtls
 brew mbedtls@3
 brew mercurial
+brew merve
+brew mongodb-atlas-cli
+brew mongosh
 brew mpdecimal
 brew mpfr
 brew mpg123
 brew msgpack
 brew mysql
 brew nasm
+brew nbytes
 brew ncurses
 brew neovim
 brew netcat
@@ -238,10 +244,12 @@ brew opencore-amr
 brew openexr
 brew openjdk
 brew openjdk@11
+brew openjdk@17
 brew openjdk@21
 brew openjpeg
 brew openjph
 brew openssl@3
+brew openssl@4
 brew operator-sdk
 brew opus
 brew p11-kit
@@ -266,7 +274,6 @@ brew python-packaging
 brew python@3.10
 brew python@3.11
 brew python@3.12
-brew python@3.13
 brew python@3.9
 brew r
 brew rav1e
@@ -287,6 +294,7 @@ brew shared-mime-info
 brew sheldon
 brew shfmt
 brew simdjson
+brew simdutf
 brew sipcalc
 brew skinny
 brew skopeo
@@ -302,10 +310,10 @@ brew subversion
 brew svt-av1
 brew tcl-tk
 brew tcl-tk@8
-brew terraform
 brew terragrunt
 brew tesseract
 brew texi2html
+brew tfenv
 brew theora
 brew tmux
 brew trash
@@ -374,8 +382,10 @@ cask font-hack-nerd-font
 cask font-ricty-diminished
 cask gimp
 cask google-chrome
+cask google-chrome@canary
 cask google-cloud-sdk
 cask google-drive
+cask google-gemini
 cask google-japanese-ime
 cask handbrake-app
 cask inkscape
@@ -411,18 +421,18 @@ tap argon/mas
 tap buo/cask-upgrade
 
 tap daipeihust/tap
-brew im-select
 
 tap derailed/k9s
 
 tap dtan4/dtan4
-brew k8stail
 
 tap garethr/kubeval
 
 tap glasskube/tap
 
 tap grpc/grpc
+
+tap hashicorp/tap
 
 tap homeport/tap
 
@@ -431,45 +441,40 @@ tap instrumenta/instrumenta
 tap okteto/cli
 
 tap rcmdnk/file
-brew brew-file
 
 tap robscott/tap
-brew kube-capacity
 
 tap rs/tap
-brew jaggr
-brew jplot
 
 tap sanemat/font
 
 tap vectordotdev/brew
-brew vector
 
 tap weaveworks/tap
 
 # App Store applications
 appstore 1168254295 AmorphousDiskMark (4.0.1)
-appstore 1352778147 Bitwarden (2026.1.0)
+appstore 1352778147 Bitwarden (2026.5.0)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
-appstore 640199958 Developer (10.8.3)
-appstore 1380563956 Dictionaries (1.3.16)
+appstore 640199958 Developer (11.0.2)
+appstore 1380563956 Dictionaries (1.4.6)
 appstore 549083868 Display Menu (2.2.6)
 appstore 413857545 Divvy (1.5.2)
 appstore 1452453066 Hidden Bar (1.8)
 appstore 408981434 iMovie (10.4.4)
+appstore 361285480 Keynote Creator Studio (15.2.1)
 appstore 409183694 Keynote (14.5)
-appstore 361285480 Keynote Creator Studio (15.1.1)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (26.0.1)
-appstore 361304891 Numbers Creator Studio (15.1)
+appstore 539883307 LINE (26.2.0)
 appstore 409203825 Numbers (14.5)
+appstore 361304891 Numbers Creator Studio (15.2.1)
+appstore 361309726 Pages Creator Studio (15.2.1)
 appstore 409201541 Pages (14.5)
-appstore 361309726 Pages Creator Studio (15.1.1)
 appstore 429449079 Patterns (1.3)
 appstore 467103113 Relax Melodies (6.0.1)
-appstore 1437809329 Surfshark (4.25.1)
-appstore 310633997 WhatsApp (26.6.73)
-appstore 497799835 Xcode (26.2)
+appstore 1437809329 Surfshark (4.27.2)
+appstore 310633997 WhatsApp (26.22.77)
+appstore 497799835 Xcode (26.5)
 
 # Other commands
 <<<<<<< HEAD

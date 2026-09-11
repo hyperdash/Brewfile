@@ -356,60 +356,39 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask affinity
 cask alfred
-cask amazon-photos
-cask appcleaner
 cask bartender
 cask blackhole-16ch
 cask brave-browser
-cask burp-suite
 cask chatgpt
 cask choosy
-cask chromedriver
 cask claude
 cask claude-code
-cask cloudflare-warp
 cask coderunner
-cask cyberduck
-cask daisydisk
-cask dbeaver-community
 cask deepl
 cask discord
 cask docker
 cask dropbox
 cask fantastical
-cask firefox
 cask font-hack-nerd-font
 cask font-ricty-diminished
-cask gimp
 cask google-chrome
-cask google-chrome@canary
 cask google-cloud-sdk
 cask google-drive
 cask google-gemini
 cask google-japanese-ime
-cask handbrake-app
-cask inkscape
 cask intellij-idea
 cask istat-menus
 cask iterm2
-cask karabiner-elements
-cask launchcontrol
 cask macfuse
 cask microsoft-auto-update
-cask microsoft-teams
 cask monitorcontrol
-cask mysqlworkbench
 cask ngrok
 cask notunes
 cask pdf-expert
-cask pdfelement
-cask rstudio
 cask slack
 cask sourcetree
-cask temurin@8
 cask the-unarchiver
 cask tunnelbear
-cask tunnelblick
 cask utm
 cask visual-studio-code
 cask vlc
@@ -453,36 +432,16 @@ tap vectordotdev/brew
 tap weaveworks/tap
 
 # App Store applications
-appstore 1168254295 AmorphousDiskMark (4.0.1)
 appstore 1352778147 Bitwarden (2026.5.0)
-appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 640199958 Developer (11.0.2)
 appstore 1380563956 Dictionaries (1.4.6)
 appstore 549083868 Display Menu (2.2.6)
-appstore 413857545 Divvy (1.5.2)
 appstore 1452453066 Hidden Bar (1.8)
-appstore 408981434 iMovie (10.4.4)
 appstore 361285480 Keynote Creator Studio (15.2.1)
-appstore 409183694 Keynote (14.5)
-appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (26.2.0)
-appstore 409203825 Numbers (14.5)
 appstore 361304891 Numbers Creator Studio (15.2.1)
 appstore 361309726 Pages Creator Studio (15.2.1)
-appstore 409201541 Pages (14.5)
-appstore 429449079 Patterns (1.3)
-appstore 467103113 Relax Melodies (6.0.1)
-appstore 1437809329 Surfshark (4.27.2)
 appstore 310633997 WhatsApp (26.22.77)
 appstore 497799835 Xcode (26.5)
 
 # Other commands
-<<<<<<< HEAD
-=======
->>>>>>> 11e57350d145ec26cd204842d1bffc536217c3e8
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> e14cda8f247f8e1d75d2dfe10675e51a75580e3d
-=======
->>>>>>> 26c0ca5279bd2cd2fa35e4ccecbc99cc172be95e

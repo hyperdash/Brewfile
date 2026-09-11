@@ -16,6 +16,17 @@ brew aribb24
 brew asdf
 brew autoconf
 brew automake
+brew aws-c-auth
+brew aws-c-cal
+brew aws-c-common
+brew aws-c-compression
+brew aws-c-event-stream
+brew aws-c-http
+brew aws-c-io
+brew aws-c-mqtt
+brew aws-c-s3
+brew aws-c-sdkutils
+brew aws-checksums
 brew aws-elasticbeanstalk
 brew aws-iam-authenticator
 brew awscli
@@ -119,6 +130,7 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
+brew json-c
 brew k9s
 brew kompose
 brew krew
@@ -135,7 +147,6 @@ brew libavif
 brew libb2
 brew libbluray
 brew libcbor
-brew libcroco
 brew libdatrie
 brew libde265
 brew libdeflate
@@ -227,6 +238,7 @@ brew mpfr
 brew mpg123
 brew msgpack
 brew mysql
+brew mysql@8.0
 brew nasm
 brew nbytes
 brew ncurses
@@ -288,8 +300,10 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew ruby-build
+brew s2n
 brew scons
 brew sdl2
+brew sdl3
 brew shared-mime-info
 brew sheldon
 brew shfmt
@@ -329,6 +343,8 @@ brew vim
 brew watch
 brew webp
 brew wget
+brew wireguard-go
+brew wireguard-tools
 brew woff2
 brew x264
 brew x265
@@ -364,6 +380,9 @@ cask choosy
 cask claude
 cask claude-code
 cask coderunner
+cask codex
+cask copilot-cli
+cask dbeaver-community
 cask deepl
 cask discord
 cask docker
@@ -379,12 +398,17 @@ cask google-japanese-ime
 cask intellij-idea
 cask istat-menus
 cask iterm2
+cask lasso-app
 cask macfuse
+cask markedit
 cask microsoft-auto-update
 cask monitorcontrol
+cask mysqlworkbench
 cask ngrok
+cask nordvpn
 cask notunes
 cask pdf-expert
+cask pdfelement
 cask slack
 cask sourcetree
 cask the-unarchiver
@@ -394,6 +418,7 @@ cask visual-studio-code
 cask vlc
 cask whatsapp
 cask windscribe
+cask zoom
 
 tap argon/mas
 
@@ -404,6 +429,8 @@ tap daipeihust/tap
 tap derailed/k9s
 
 tap dtan4/dtan4
+
+tap dtan4/tools
 
 tap garethr/kubeval
 
@@ -420,6 +447,7 @@ tap instrumenta/instrumenta
 tap okteto/cli
 
 tap rcmdnk/file
+brew brew-file
 
 tap robscott/tap
 
@@ -431,17 +459,18 @@ tap vectordotdev/brew
 
 tap weaveworks/tap
 
+# Other Homebrew packages
+brew libcroco
+
 # App Store applications
-appstore 1352778147 Bitwarden (2026.5.0)
+appstore 1352778147 Bitwarden (2026.8.0)
 appstore 640199958 Developer (11.0.2)
 appstore 1380563956 Dictionaries (1.4.6)
 appstore 549083868 Display Menu (2.2.6)
 appstore 1452453066 Hidden Bar (1.8)
-appstore 361285480 Keynote Creator Studio (15.2.1)
-appstore 539883307 LINE (26.2.0)
-appstore 361304891 Numbers Creator Studio (15.2.1)
-appstore 361309726 Pages Creator Studio (15.2.1)
-appstore 310633997 WhatsApp (26.22.77)
-appstore 497799835 Xcode (26.5)
-
-# Other commands
+appstore 361285480 Keynote Creator Studio (15.3.1)
+appstore 539883307 LINE (26.4.2)
+appstore 361304891 Numbers Creator Studio (15.3.1)
+appstore 361309726 Pages Creator Studio (15.3.1)
+appstore 1451685025 WireGuard (1.0.16)
+appstore 497799835 Xcode (26.6)

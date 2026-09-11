@@ -369,11 +369,7 @@ brew zsh-syntax-highlighting
 brew zstd
 
 tap homebrew/cask
-cask adobe-acrobat-reader
-cask affinity
 cask alfred
-cask bartender
-cask blackhole-16ch
 cask brave-browser
 cask chatgpt
 cask choosy
@@ -386,7 +382,6 @@ cask dbeaver-community
 cask deepl
 cask discord
 cask docker
-cask dropbox
 cask fantastical
 cask font-hack-nerd-font
 cask font-ricty-diminished
@@ -395,7 +390,6 @@ cask google-cloud-sdk
 cask google-drive
 cask google-gemini
 cask google-japanese-ime
-cask intellij-idea
 cask istat-menus
 cask iterm2
 cask lasso-app
@@ -412,12 +406,8 @@ cask pdfelement
 cask slack
 cask sourcetree
 cask the-unarchiver
-cask tunnelbear
-cask utm
 cask visual-studio-code
 cask vlc
-cask whatsapp
-cask windscribe
 cask zoom
 
 tap argon/mas

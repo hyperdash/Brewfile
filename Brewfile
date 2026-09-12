@@ -375,7 +375,6 @@ cask chatgpt
 cask choosy
 cask claude
 cask claude-code
-cask coderunner
 cask codex
 cask copilot-cli
 cask dbeaver-community

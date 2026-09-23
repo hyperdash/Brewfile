@@ -175,6 +175,7 @@ brew libngtcp2
 brew libogg
 brew libomp
 brew libpng
+brew libpsl
 brew libpthread-stubs
 brew libraw
 brew librist
@@ -258,6 +259,7 @@ brew openjdk
 brew openjdk@11
 brew openjdk@17
 brew openjdk@21
+brew openjdk@25
 brew openjpeg
 brew openjph
 brew openssl@3
@@ -452,7 +454,7 @@ tap weaveworks/tap
 brew libcroco
 
 # App Store applications
-appstore 1352778147 Bitwarden (2026.8.0)
+appstore 1352778147 Bitwarden (2026.9.0)
 appstore 640199958 Developer (11.0.2)
 appstore 1380563956 Dictionaries (1.4.6)
 appstore 549083868 Display Menu (2.2.6)

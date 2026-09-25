@@ -455,7 +455,7 @@ brew libcroco
 
 # App Store applications
 appstore 1352778147 Bitwarden (2026.9.0)
-appstore 640199958 Developer (11.0.2)
+appstore 640199958 Developer (11.1)
 appstore 1380563956 Dictionaries (1.4.6)
 appstore 549083868 Display Menu (2.2.6)
 appstore 1452453066 Hidden Bar (1.8)

@@ -170,8 +170,6 @@ brew liblqr
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
-brew libnghttp3
-brew libngtcp2
 brew libogg
 brew libomp
 brew libpng
@@ -259,6 +257,7 @@ brew openjdk
 brew openjdk@11
 brew openjdk@17
 brew openjdk@21
+brew openjdk@25
 brew openjpeg
 brew openjph
 brew openssl@3

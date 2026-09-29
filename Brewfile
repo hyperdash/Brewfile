@@ -259,7 +259,6 @@ brew openjdk
 brew openjdk@11
 brew openjdk@17
 brew openjdk@21
-brew openjdk@25
 brew openjpeg
 brew openjph
 brew openssl@3

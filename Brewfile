@@ -266,6 +266,7 @@ brew operator-sdk
 brew opus
 brew p11-kit
 brew p7zip
+brew pandoc
 brew pango
 brew parallel
 brew pcre
@@ -370,6 +371,7 @@ brew zstd
 
 tap homebrew/cask
 cask alfred
+cask basictex
 cask brave-browser
 cask chatgpt
 cask choosy
@@ -452,14 +454,14 @@ tap weaveworks/tap
 brew libcroco
 
 # App Store applications
-appstore 1352778147 Bitwarden (2026.9.0)
+appstore 1352778147 Bitwarden (2026.9.1)
 appstore 640199958 Developer (11.1)
 appstore 1380563956 Dictionaries (1.4.6)
 appstore 549083868 Display Menu (2.2.6)
 appstore 1452453066 Hidden Bar (1.8)
-appstore 361285480 Keynote Creator Studio (15.3.1)
-appstore 539883307 LINE (26.4.2)
-appstore 361304891 Numbers Creator Studio (15.3.1)
-appstore 361309726 Pages Creator Studio (15.3.1)
+appstore 361285480 Keynote Creator Studio (15.4)
+appstore 539883307 LINE (26.5.0)
+appstore 361304891 Numbers Creator Studio (15.4)
+appstore 361309726 Pages Creator Studio (15.4)
 appstore 1451685025 WireGuard (1.0.16)
 appstore 497799835 Xcode (27.0)

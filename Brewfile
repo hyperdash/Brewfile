@@ -266,7 +266,6 @@ brew operator-sdk
 brew opus
 brew p11-kit
 brew p7zip
-brew pandoc
 brew pango
 brew parallel
 brew pcre
@@ -371,7 +370,6 @@ brew zstd
 
 tap homebrew/cask
 cask alfred
-cask basictex
 cask brave-browser
 cask chatgpt
 cask choosy

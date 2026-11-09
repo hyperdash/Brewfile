@@ -52,6 +52,7 @@ brew cmake
 brew cmocka
 brew colordiff
 brew coreutils
+brew curl
 brew d2
 brew dav1d
 brew direnv
@@ -115,6 +116,7 @@ brew hub
 brew icu4c
 brew icu4c@76
 brew icu4c@77
+brew icu4c@78
 brew imagemagick
 brew imath
 brew iproute2mac
@@ -170,6 +172,8 @@ brew liblqr
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
+brew libnghttp3
+brew libngtcp2
 brew libogg
 brew libomp
 brew libpng
@@ -453,14 +457,14 @@ tap weaveworks/tap
 brew libcroco
 
 # App Store applications
-appstore 1352778147 Bitwarden (2026.9.1)
-appstore 640199958 Developer (11.1)
-appstore 1380563956 Dictionaries (1.4.6)
+appstore 1352778147 Bitwarden (2026.10.0)
+appstore 640199958 Developer (11.1.1)
+appstore 1380563956 Dictionaries (1.4.7)
 appstore 549083868 Display Menu (2.2.6)
 appstore 1452453066 Hidden Bar (1.8)
 appstore 361285480 Keynote Creator Studio (15.4)
-appstore 539883307 LINE (26.5.0)
+appstore 539883307 LINE (26.6.0)
 appstore 361304891 Numbers Creator Studio (15.4)
 appstore 361309726 Pages Creator Studio (15.4)
 appstore 1451685025 WireGuard (1.0.16)
-appstore 497799835 Xcode (27.1)
+appstore 497799835 Xcode (27.2)

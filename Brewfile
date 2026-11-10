@@ -116,7 +116,6 @@ brew hub
 brew icu4c
 brew icu4c@76
 brew icu4c@77
-brew icu4c@78
 brew imagemagick
 brew imath
 brew iproute2mac

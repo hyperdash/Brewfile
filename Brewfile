@@ -52,7 +52,6 @@ brew cmake
 brew cmocka
 brew colordiff
 brew coreutils
-brew curl
 brew d2
 brew dav1d
 brew direnv
@@ -172,8 +171,6 @@ brew liblqr
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
-brew libnghttp3
-brew libngtcp2
 brew libogg
 brew libomp
 brew libpng

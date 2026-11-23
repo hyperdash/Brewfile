@@ -52,11 +52,8 @@ brew cmake
 brew cmocka
 brew colordiff
 brew coreutils
-brew curl
-brew curl-impersonate
 brew d2
 brew dav1d
-brew deno
 brew direnv
 brew docbook
 brew docbook-xsl
@@ -174,8 +171,6 @@ brew liblqr
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
-brew libnghttp3
-brew libngtcp2
 brew libogg
 brew libomp
 brew libpng
@@ -361,7 +356,6 @@ brew xvid
 brew xz
 brew yamllint
 brew yq
-brew yt-dlp
 brew zeromq
 brew zimg
 brew zlib-ng-compat
@@ -401,7 +395,6 @@ cask istat-menus
 cask iterm2
 cask lasso-app
 cask macfuse
-cask mactex-no-gui
 cask markedit
 cask microsoft-auto-update
 cask monitorcontrol

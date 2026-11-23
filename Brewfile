@@ -52,8 +52,11 @@ brew cmake
 brew cmocka
 brew colordiff
 brew coreutils
+brew curl
+brew curl-impersonate
 brew d2
 brew dav1d
+brew deno
 brew direnv
 brew docbook
 brew docbook-xsl
@@ -171,6 +174,8 @@ brew liblqr
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
+brew libnghttp3
+brew libngtcp2
 brew libogg
 brew libomp
 brew libpng
@@ -356,6 +361,7 @@ brew xvid
 brew xz
 brew yamllint
 brew yq
+brew yt-dlp
 brew zeromq
 brew zimg
 brew zlib-ng-compat
@@ -395,6 +401,7 @@ cask istat-menus
 cask iterm2
 cask lasso-app
 cask macfuse
+cask mactex-no-gui
 cask markedit
 cask microsoft-auto-update
 cask monitorcontrol
@@ -458,10 +465,10 @@ appstore 1352778147 Bitwarden (2026.10.4)
 appstore 640199958 Developer (11.1.2)
 appstore 1380563956 Dictionaries (1.4.7)
 appstore 549083868 Display Menu (2.2.6)
-appstore 1452453066 Hidden Bar (1.8)
-appstore 361285480 Keynote Creator Studio (15.4)
+appstore 1452453066 Hidden Bar (1.13.1)
+appstore 361285480 Keynote Creator Studio (16.0)
 appstore 539883307 LINE (26.6.0)
-appstore 361304891 Numbers Creator Studio (15.4)
-appstore 361309726 Pages Creator Studio (15.4)
+appstore 361304891 Numbers Creator Studio (16.0)
+appstore 361309726 Pages Creator Studio (16.0)
 appstore 1451685025 WireGuard (1.0.16)
 appstore 497799835 Xcode (27.2)
